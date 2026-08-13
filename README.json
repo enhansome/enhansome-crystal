@@ -544,7 +544,7 @@
             "last_commit": "2026-06-18T21:16:41Z",
             "owner": "Sija",
             "repo": "gphoto2.cr",
-            "stars": 20
+            "stars": 21
           }
         },
         {
@@ -2172,7 +2172,7 @@
             "last_commit": "2025-03-15T21:07:24Z",
             "owner": "crystal-loot",
             "repo": "exception_page",
-            "stars": 71
+            "stars": 72
           }
         },
         {
@@ -2858,7 +2858,7 @@
             "last_commit": "2026-08-04T03:22:28Z",
             "owner": "mint-lang",
             "repo": "mint",
-            "stars": 4262
+            "stars": 4263
           }
         },
         {
@@ -4331,7 +4331,7 @@
           "repo_info": {
             "archived": false,
             "language": "Crystal",
-            "last_commit": "2026-08-13T01:49:52Z",
+            "last_commit": "2026-08-13T14:40:02Z",
             "owner": "owasp-noir",
             "repo": "noir",
             "stars": 1370
@@ -5163,10 +5163,10 @@
           "repo_info": {
             "archived": false,
             "language": "Crystal",
-            "last_commit": "2026-08-05T18:04:31Z",
+            "last_commit": "2026-08-13T15:48:54Z",
             "owner": "kemalcr",
             "repo": "kemal",
-            "stars": 3904
+            "stars": 3905
           }
         },
         {
@@ -5177,7 +5177,7 @@
           "repo_info": {
             "archived": false,
             "language": "Crystal",
-            "last_commit": "2026-08-10T23:15:27Z",
+            "last_commit": "2026-08-13T14:19:00Z",
             "owner": "luckyframework",
             "repo": "lucky",
             "stars": 2725
@@ -5559,7 +5559,7 @@
           "repo_info": {
             "archived": false,
             "language": "Crystal",
-            "last_commit": "2026-08-12T22:52:05Z",
+            "last_commit": "2026-08-13T14:17:06Z",
             "owner": "elbywan",
             "repo": "crystalline",
             "stars": 518
@@ -5618,7 +5618,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:08:53.848Z",
+    "last_updated": "2026-08-13T15:58:05.054Z",
     "original_repository": "veelenga/awesome-crystal",
     "original_repository_sha": "3631c21a25880fd2f3e886bbc8577cc1abf6377f",
     "enhanced_repository": "enhansome/enhansome-crystal",
