@@ -1,0 +1,5628 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "crystalline",
+          "description": "A collection of containers and algorithms",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2023-08-26T04:47:17Z",
+            "owner": "jtomschroeder",
+            "repo": "crystalline",
+            "stars": 129
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "radix",
+          "description": "Radix Tree implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2024-06-02T15:21:52Z",
+            "owner": "luislavena",
+            "repo": "radix",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CrOTP",
+          "description": "HOTP and TOTP implementation for two factor authentication",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2023-09-22T17:58:53Z",
+            "owner": "philnash",
+            "repo": "crotp",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fzy",
+          "description": "A Crystal port of awesome Fzy project fuzzy finder algorithm",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2024-11-14T14:43:29Z",
+            "owner": "hugopl",
+            "repo": "fzy",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crystalg",
+          "description": "A Generic Algorithm Library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2021-04-06T15:26:44Z",
+            "owner": "tobyapi",
+            "repo": "crystalg",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Goban",
+          "description": "A fast and efficient QR Code implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2024-09-14T02:45:58Z",
+            "owner": "soya-daizu",
+            "repo": "goban",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "blurhash.cr",
+          "description": "BlurHash implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2024-03-04T00:42:45Z",
+            "owner": "Sija",
+            "repo": "blurhash.cr",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crystaledge",
+          "description": "A pure Vector Math library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2023-07-08T06:14:59Z",
+            "owner": "unn4m3d",
+            "repo": "crystaledge",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "qr-code",
+          "description": "QR Code generator",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-07-09T06:16:20Z",
+            "owner": "spider-gazelle",
+            "repo": "qr-code",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "graphlb",
+          "description": "Collection of graph datastructure and algorithms",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2021-06-15T08:57:48Z",
+            "owner": "mettuaditya",
+            "repo": "graphlb",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "markov",
+          "description": "Build Markov Chains and run Markov Processes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2021-03-22T09:18:03Z",
+            "owner": "mccallofthewild",
+            "repo": "markov",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "haversine",
+          "description": "An Implementation of the Haversine formula",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-07-26T12:00:21Z",
+            "owner": "geocrystal",
+            "repo": "haversine",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kd_tree",
+          "description": "An implementation of \"K-Dimensional Tree\" and \"N-Nearest Neighbors\"",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-06-28T09:01:07Z",
+            "owner": "geocrystal",
+            "repo": "kd_tree",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "csuuid",
+          "description": "A Chronologically Sortable UUID",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2024-10-08T14:48:35Z",
+            "owner": "wyhaines",
+            "repo": "csuuid.cr",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "edits.cr",
+          "description": "Collection of edit distance algorithms",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-03-01T20:32:32Z",
+            "owner": "tcrouch",
+            "repo": "edits.cr",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ksuid.cr",
+          "description": "K-Sortable Globally Unique IDs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2023-10-12T15:48:07Z",
+            "owner": "Sija",
+            "repo": "ksuid.cr",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "splay_tree_map",
+          "description": "Splay Tree implementation that conforms to the Hash ducktype",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-05-15T06:34:55Z",
+            "owner": "wyhaines",
+            "repo": "splay_tree_map.cr",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bisect",
+          "description": "Inserting values into a sorted array",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2025-10-29T23:24:25Z",
+            "owner": "spider-gazelle",
+            "repo": "bisect",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crie",
+          "description": "Compile-time Trie",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2021-05-19T17:36:41Z",
+            "owner": "c910335",
+            "repo": "crie",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crystal-linked-list",
+          "description": "Implementation of Linked List",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2020-03-24T07:31:28Z",
+            "owner": "break2bits",
+            "repo": "crystal-linked-list",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "secure-remote-password",
+          "description": "SRP-6a protocol for authentication over an insecure network",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2022-05-02T13:44:25Z",
+            "owner": "spider-gazelle",
+            "repo": "secure-remote-password",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "multiset.cr",
+          "description": "Implementation of a multiset",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2023-01-05T16:50:14Z",
+            "owner": "tcrouch",
+            "repo": "multiset.cr",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SPAKE2+",
+          "description": "Password Authenticated Key Exchange (PAKE) protocol, comparable to SRP-6a",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2025-11-13T05:32:29Z",
+            "owner": "Crystal-Matter",
+            "repo": "SPAKE2_plus",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HKDF",
+          "description": "HMAC-based Extract-and-Expand Key Derivation Function rfc5869",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2023-10-12T20:51:32Z",
+            "owner": "spider-gazelle",
+            "repo": "HKDF",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "named_information",
+          "description": "Naming Things with Hashes rfc6920",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2024-02-02T03:37:36Z",
+            "owner": "spider-gazelle",
+            "repo": "named_information",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "s2_cells",
+          "description": "S2 Geometry for spatial indexing",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2024-07-27T14:10:12Z",
+            "owner": "spider-gazelle",
+            "repo": "s2_cells",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "verhoeff",
+          "description": "Implementation of the Verhoeff checksum algorithm",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2023-10-11T23:31:45Z",
+            "owner": "Crystal-Matter",
+            "repo": "verhoeff",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Algorithms and Data structures"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Axentro",
+          "description": "A custom blockchain platform",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2021-06-03T15:15:05Z",
+            "owner": "Axentro",
+            "repo": "Axentro",
+            "stars": 192
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "secp256k1.cr",
+          "description": "Elliptic curve used in the public-private-key cryptography",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2023-07-13T01:16:59Z",
+            "owner": "q9f",
+            "repo": "secp256k1.cr",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cocol",
+          "description": "A minimal blockchain testbed",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2020-04-24T12:15:01Z",
+            "owner": "cocol-project",
+            "repo": "cocol",
+            "stars": 21
+          }
+        }
+      ],
+      "title": "Blockchain"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "duktape.cr",
+          "description": "Bindings for the Duktape javascript engine",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2023-07-10T20:28:47Z",
+            "owner": "jessedoyle",
+            "repo": "duktape.cr",
+            "stars": 141
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wasmer-crystal",
+          "description": "Bindings for the WebAssembly runtime",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-05-18T10:05:09Z",
+            "owner": "naqvis",
+            "repo": "wasmer-crystal",
+            "stars": 103
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "clang.cr",
+          "description": "Libclang bindings",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-07-02T18:41:50Z",
+            "owner": "crystal-lang",
+            "repo": "clang.cr",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ssh2.cr",
+          "description": "Bindings for libssh2 library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-07-20T02:08:06Z",
+            "owner": "spider-gazelle",
+            "repo": "ssh2.cr",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pcap.cr",
+          "description": "Bindings for libpcap",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2020-05-17T09:36:58Z",
+            "owner": "maiha",
+            "repo": "pcap.cr",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crt.cr",
+          "description": "Bindings for libncursesw and crt",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2021-03-19T18:48:42Z",
+            "owner": "maiha",
+            "repo": "crt.cr",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libnotify.cr",
+          "description": "Bindings for Libnotify",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2021-08-12T16:18:05Z",
+            "owner": "splattael",
+            "repo": "libnotify.cr",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gphoto2.cr",
+          "description": "Bindings for the libgphoto2 library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-06-18T21:16:41Z",
+            "owner": "Sija",
+            "repo": "gphoto2.cr",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "win32cr",
+          "description": "Bindings for Win32 API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-03-26T02:52:33Z",
+            "owner": "mjblack",
+            "repo": "win32cr",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "x_do.cr",
+          "description": "Bindings for libxdo ()",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2023-07-05T02:50:01Z",
+            "owner": "woodruffw",
+            "repo": "x_do.cr",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "icu.cr",
+          "description": "Bindings for the ICU library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-02-26T19:15:16Z",
+            "owner": "olbat",
+            "repo": "icu.cr",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fftw.cr",
+          "description": "Bindings for FFTW library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2022-02-23T14:01:03Z",
+            "owner": "firejox",
+            "repo": "fftw.cr",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "syslog.cr",
+          "description": "Bindings for",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2021-05-01T19:16:08Z",
+            "owner": "chris-huxtable",
+            "repo": "syslog.cr",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pledge.cr",
+          "description": "Bindings for OpenBSD's",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2021-06-05T02:30:39Z",
+            "owner": "chris-huxtable",
+            "repo": "pledge.cr",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "augeas.cr",
+          "description": "Bindings for Augeas",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2021-09-25T21:36:44Z",
+            "owner": "fernandes",
+            "repo": "augeas.cr",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crystal-hunspell",
+          "description": "Bindings for Hunspell",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-07-01T08:24:22Z",
+            "owner": "mamantoha",
+            "repo": "crystal-hunspell",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crystal-gsl",
+          "description": "Bindings for GNU Scientific Library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-02-18T16:27:12Z",
+            "owner": "konovod",
+            "repo": "crystal-gsl",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "v4l2.cr",
+          "description": "Bindings for Video4Linux2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2024-06-06T23:10:31Z",
+            "owner": "spider-gazelle",
+            "repo": "v4l2.cr",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gpio.cr",
+          "description": "Bindings for the gpiod library (general purpose IO control and feedback)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2025-01-08T11:01:53Z",
+            "owner": "spider-gazelle",
+            "repo": "gpio.cr",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nlopt.cr",
+          "description": "Bindings for NLOpt",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2025-01-30T10:14:16Z",
+            "owner": "konovod",
+            "repo": "nlopt.cr",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "C bindings"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "cache",
+          "description": "A key/value store where pairs can expire after a specified interval",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-07-26T13:57:07Z",
+            "owner": "crystal-cache",
+            "repo": "cache",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crystal-memcached",
+          "description": "Implementation of a memcached client",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2023-08-31T16:24:45Z",
+            "owner": "comandeo",
+            "repo": "crystal-memcached",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "apt-larder",
+          "description": "An HTTP caching proxy for APT package repositories",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-08-07T20:00:55Z",
+            "owner": "jbox-web",
+            "repo": "apt-larder",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Caching"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "admiral",
+          "description": "A robust DSL for writing command line interfaces",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2021-07-15T11:52:21Z",
+            "owner": "jwaldrip",
+            "repo": "admiral.cr",
+            "stars": 144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "commander",
+          "description": "Command-line interface builder",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2021-03-30T07:19:32Z",
+            "owner": "mrrooijen",
+            "repo": "commander",
+            "stars": 131
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "clim",
+          "description": "Slim command line interface builder",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2021-04-11T14:35:21Z",
+            "owner": "at-grandpa",
+            "repo": "clim",
+            "stars": 126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Phreak",
+          "description": "A highly flexible Crystal CLI builder in the style of OptionParser",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2021-05-11T20:18:06Z",
+            "owner": "shinzlet",
+            "repo": "phreak",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "clicr",
+          "description": "A simple declarative command line interface builder",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2020-10-28T21:41:04Z",
+            "owner": "j8r",
+            "repo": "clicr",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cling",
+          "description": "A modular, non-macro-based command line interface library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2025-08-04T17:33:12Z",
+            "owner": "devnote-dev",
+            "repo": "cling",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Athena Console",
+          "description": "Allows for the creation of CLI based commands",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-04-19T23:29:18Z",
+            "owner": "athena-framework",
+            "repo": "console",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keimeno",
+          "description": "A lightweight text user interface library in Crystal",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2020-04-04T04:12:50Z",
+            "owner": "robacarp",
+            "repo": "keimeno",
+            "stars": 17
+          }
+        }
+      ],
+      "title": "CLI Builders"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "hetzner-k3s",
+          "description": "A CLI tool to quickly create and manage Kubernetes clusters in Hetzner Cloud",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-06-24T12:27:23Z",
+            "owner": "vitobotta",
+            "repo": "hetzner-k3s",
+            "stars": 3660
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "oq",
+          "description": "A performant, and portable jq wrapper to facilitate the consumption and output of formats other than JSON; using jq filters to transform the data",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-07-16T00:04:55Z",
+            "owner": "Blacksmoke16",
+            "repo": "oq",
+            "stars": 208
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tallboy",
+          "description": "Generate ASCII character tables with support for spanning cells over multiple columns",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2021-04-27T11:29:38Z",
+            "owner": "epoch",
+            "repo": "tallboy",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cride",
+          "description": "A light CLI text editor/IDE",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2021-05-08T12:18:57Z",
+            "owner": "j8r",
+            "repo": "cride",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "meet",
+          "description": "Start a jitsi meeting quickly from the comfort of your command line",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2023-03-25T21:05:02Z",
+            "owner": "ryanprior",
+            "repo": "meet",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tablo",
+          "description": "A flexible terminal table generator",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-02-20T16:34:31Z",
+            "owner": "hutou",
+            "repo": "tablo",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lff",
+          "description": "Simple and straightforward large files finder utility in command line",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2021-05-15T02:23:32Z",
+            "owner": "mkdika",
+            "repo": "lff-cr",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "climate",
+          "description": "Tiny tool to make your CLI output 🌈 coloured",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2025-04-23T01:16:31Z",
+            "owner": "Sija",
+            "repo": "climate.cr",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "progress_bar.cr",
+          "description": "A simple and customizable progress bar",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2024-02-29T13:14:18Z",
+            "owner": "TPei",
+            "repo": "progress_bar.cr",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "coin",
+          "description": "Command-line application that performs currency conversion via the Fixer API",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Crystal",
+            "last_commit": "2021-11-27T04:26:34Z",
+            "owner": "e-graveyard",
+            "repo": "coin",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "git-repository",
+          "description": "A git cli wrapper querying and cloning remote repositories with minimal data transfer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2025-12-12T03:15:51Z",
+            "owner": "place-labs",
+            "repo": "git-repository",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "CLI Utils"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ameba",
+          "description": "A static code analysis tool",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-08-12T23:53:30Z",
+            "owner": "crystal-ameba",
+            "repo": "ameba",
+            "stars": 562
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "linguist.cr",
+          "description": "Using multiple ways to find programming language used in files, based on Github's Linguist",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2020-05-31T05:46:26Z",
+            "owner": "microgit-com",
+            "repo": "linguist.cr",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cruml",
+          "description": "A tool that provides an UML class diagram generator for any Crystal projects",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-02-23T08:53:05Z",
+            "owner": "tamdaz",
+            "repo": "cruml",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Code Analysis and Metrics"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Crystar",
+          "description": "Readers and writers of Tar archive format",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2024-06-20T14:11:34Z",
+            "owner": "naqvis",
+            "repo": "crystar",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zstd.cr",
+          "description": "Bindings for Zstandard compression library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2024-05-14T20:39:29Z",
+            "owner": "didactic-drunk",
+            "repo": "zstd.cr",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "snappy",
+          "description": "Snappy compression format reader/writer for Crystal",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2021-03-25T06:36:12Z",
+            "owner": "naqvis",
+            "repo": "snappy",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polylines.cr",
+          "description": "compression of series of coordinates",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2021-06-17T07:35:43Z",
+            "owner": "BuonOmo",
+            "repo": "polylines.cr",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Compression"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "cr-dotenv",
+          "description": "Loads .env file",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2025-05-14T03:02:54Z",
+            "owner": "gdotdesign",
+            "repo": "cr-dotenv",
+            "stars": 99
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "habitat",
+          "description": "Type safe configuration for your classes and modules",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2025-03-15T21:11:41Z",
+            "owner": "luckyframework",
+            "repo": "habitat",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "totem",
+          "description": "Load and parse a configuration in JSON, YAML, dotenv formats",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2024-02-23T02:59:27Z",
+            "owner": "icyleaf",
+            "repo": "totem",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Envy",
+          "description": "Load environment variables from YAML",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-08-09T09:55:38Z",
+            "owner": "GrottoPress",
+            "repo": "envy",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "envyable",
+          "description": "A simple YAML to ENV config loader",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2021-05-24T22:21:58Z",
+            "owner": "philnash",
+            "repo": "envyable.cr",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typed_env_config",
+          "description": "Load type-safe configuration from YAML/dotenv with ENV overrides",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-04-12T10:17:33Z",
+            "owner": "systatum",
+            "repo": "typed_env_config",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ucl.cr",
+          "description": "Bindings to libucl, load, dump and validate UCL/JSON configuration",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-07-26T00:08:35Z",
+            "owner": "jbox-web",
+            "repo": "ucl.cr",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Configuration"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "money",
+          "description": "Handling money and currency conversion with ease (almost complete port of RubyMoney)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-08-06T00:08:42Z",
+            "owner": "crystal-money",
+            "repo": "money",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sass.cr",
+          "description": "Compile SASS/SCSS to CSS (libsass binding)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-01-22T16:27:36Z",
+            "owner": "straight-shoota",
+            "repo": "sass.cr",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "base62.cr",
+          "description": "Base62 encoder/decoder, well suited for url-shortening",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2023-10-12T15:47:39Z",
+            "owner": "Sija",
+            "repo": "base62.cr",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tssc.cr",
+          "description": "String Converter (incl. JSON & YAML support)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-06-18T19:43:19Z",
+            "owner": "Sija",
+            "repo": "tssc.cr",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crunits",
+          "description": "Tool for converting units of measure (miles to kilometers, celsius to fahrenheit etc)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2022-11-15T05:09:47Z",
+            "owner": "spider-gazelle",
+            "repo": "crunits",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Converters"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "sodium.cr",
+          "description": "Crystal wrapper for the libsodium crypto API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2022-06-01T09:15:54Z",
+            "owner": "didactic-drunk",
+            "repo": "sodium.cr",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "monocypher.cr",
+          "description": "Crystal wrapper for the Monocypher crypto library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-05-30T19:28:11Z",
+            "owner": "konovod",
+            "repo": "monocypher.cr",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ed25519",
+          "description": "the Ed25519 elliptic curve public-key signature system described in [RFC 8032]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2025-10-17T09:04:17Z",
+            "owner": "spider-gazelle",
+            "repo": "ed25519",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cmac",
+          "description": "Crystal implementation of Cipher-based Message Authentication Code (CMAC)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2024-11-07T19:39:35Z",
+            "owner": "spider-gazelle",
+            "repo": "cmac",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Cryptography"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "toml.cr",
+          "description": "TOML parser",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-04-29T01:43:10Z",
+            "owner": "crystal-community",
+            "repo": "toml.cr",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BinData",
+          "description": "Binary data parser helper with an ASN.1 parser",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-07-16T00:20:30Z",
+            "owner": "spider-gazelle",
+            "repo": "bindata",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Crystalizer",
+          "description": "(De)serialize any Crystal object; supporting JSON, YAML, and Byte formats out of the box",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2023-02-13T01:41:18Z",
+            "owner": "j8r",
+            "repo": "crystalizer",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crinder",
+          "description": "Class based json renderer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2021-05-20T08:30:31Z",
+            "owner": "c910335",
+            "repo": "crinder",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "maxminddb.cr",
+          "description": "MaxMindDB reader",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2023-02-03T10:21:35Z",
+            "owner": "delef",
+            "repo": "maxminddb.cr",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JSON::OnSteroids",
+          "description": "handle and mutate JSON document easily",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2021-04-29T09:10:37Z",
+            "owner": "anykeyh",
+            "repo": "json_on_steroids",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HAR",
+          "description": "HAR (HTTP Archive) parser",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2024-02-21T15:47:21Z",
+            "owner": "NeuraLegion",
+            "repo": "har",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geoip2.cr",
+          "description": "GeoIP2 reader",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2021-03-24T08:35:48Z",
+            "owner": "delef",
+            "repo": "geoip2.cr",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "front_matter.cr",
+          "description": "Separates a files front matter from its content",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2021-09-01T01:47:37Z",
+            "owner": "chris-huxtable",
+            "repo": "front_matter.cr",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "json-schema",
+          "description": "convert JSON serializable classes into a JSON Schema representation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-06-14T11:40:18Z",
+            "owner": "spider-gazelle",
+            "repo": "json-schema",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "config.cr",
+          "description": "Easy to use configuration format parser",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2021-05-01T19:14:10Z",
+            "owner": "chris-huxtable",
+            "repo": "config.cr",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jmespath.cr",
+          "description": "Crystal implementation of JMESPath, a query language for JSON",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-03-29T21:54:20Z",
+            "owner": "qequ",
+            "repo": "jmespath.cr",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "toon-crystal",
+          "description": "TOON (Token-Oriented Object Notation) parser",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-08-06T03:20:24Z",
+            "owner": "mamantoha",
+            "repo": "toon-crystal",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Data Formats"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "faker",
+          "description": "A library for generating fake data",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2024-04-21T23:34:08Z",
+            "owner": "askn",
+            "repo": "faker",
+            "stars": 158
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hashids.cr",
+          "description": "A library to generate YouTube-like ids from one or many numbers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2020-05-24T14:55:05Z",
+            "owner": "splattael",
+            "repo": "hashids.cr",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "prime",
+          "description": "A prime number generator",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2020-02-25T05:49:27Z",
+            "owner": "jkthorne",
+            "repo": "prime",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Data Generators"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "crystal-pg",
+          "description": "A Postgres driver",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-07-26T21:17:28Z",
+            "owner": "will",
+            "repo": "crystal-pg",
+            "stars": 479
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crystal-redis",
+          "description": "Full featured Redis client",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2023-04-15T15:50:52Z",
+            "owner": "stefanwille",
+            "repo": "crystal-redis",
+            "stars": 376
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crystal-db",
+          "description": "Common db api",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-06-01T14:02:50Z",
+            "owner": "crystal-lang",
+            "repo": "crystal-db",
+            "stars": 312
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crystal-sqlite3",
+          "description": "SQLite3 bindings",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-08-09T00:42:54Z",
+            "owner": "crystal-lang",
+            "repo": "crystal-sqlite3",
+            "stars": 161
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crystal-mysql",
+          "description": "MySQL connector for Crystal",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-06-02T10:35:10Z",
+            "owner": "crystal-lang",
+            "repo": "crystal-mysql",
+            "stars": 110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cryomongo",
+          "description": "MongoDB driver",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-03-19T12:44:08Z",
+            "owner": "elbywan",
+            "repo": "cryomongo",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "leveldb",
+          "description": "Crystal bindings for LevelDB",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2020-03-06T18:09:49Z",
+            "owner": "crystal-community",
+            "repo": "leveldb",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rocksdb.cr",
+          "description": "RocksDB client",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2024-01-13T04:47:36Z",
+            "owner": "maiha",
+            "repo": "rocksdb.cr",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crystal-rethinkdb",
+          "description": "Driver for RethinkDB / RebirthDB",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2022-05-05T03:27:14Z",
+            "owner": "kingsleyh",
+            "repo": "crystal-rethinkdb",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crystal-ldap",
+          "description": "LDAP client",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-07-16T00:21:39Z",
+            "owner": "spider-gazelle",
+            "repo": "crystal-ldap",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "couchdb.cr",
+          "description": "CouchDB client",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Crystal",
+            "last_commit": "2021-05-11T12:54:28Z",
+            "owner": "TechMagister",
+            "repo": "couchdb.cr",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "surrealdb.cr",
+          "description": "Unoffical SurrealDB HTTP & Websocket Client",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2025-02-27T09:15:01Z",
+            "owner": "mamiysr",
+            "repo": "surrealdb.cr",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Database Drivers/Clients"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "debug.cr",
+          "description": "macro for -style debugging",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-06-19T08:51:51Z",
+            "owner": "Sija",
+            "repo": "debug.cr",
+            "stars": 105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "backtracer.cr",
+          "description": "Shard aiming to assist with parsing backtraces into a structured form",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-06-18T17:57:31Z",
+            "owner": "Sija",
+            "repo": "backtracer.cr",
+            "stars": 19
+          }
+        }
+      ],
+      "title": "Debugging"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Crystal-DI",
+          "description": "Lightweight DI Container",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2018-04-13T20:32:13Z",
+            "owner": "vladislav-yashin",
+            "repo": "crystal-di",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HardWire",
+          "description": "A compile-time non-intrusive dependency injection system",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2025-08-27T12:23:19Z",
+            "owner": "rwnx",
+            "repo": "hardwire",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Athena Dependency Injection",
+          "description": "Robust dependency injection service container framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-04-19T23:29:15Z",
+            "owner": "athena-framework",
+            "repo": "dependency-injection",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "syringe",
+          "description": "A simple and basic dependency injection shard for crystal",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2019-10-21T04:48:50Z",
+            "owner": "Bonemind",
+            "repo": "syringe",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Dependency Injection"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "crystal-email",
+          "description": "Simple e-mail sending library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2024-06-11T04:24:57Z",
+            "owner": "arcage",
+            "repo": "crystal-email",
+            "stars": 115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "carbon",
+          "description": "Fun, testable, and adapter-based email library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-02-24T16:10:32Z",
+            "owner": "luckyframework",
+            "repo": "carbon",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sendgrid.cr",
+          "description": "Simple Sendgrid Client",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2020-05-07T01:11:37Z",
+            "owner": "dlanileonardo",
+            "repo": "sendgrid.cr",
+            "stars": 16
+          }
+        }
+      ],
+      "title": "Email"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "crenv",
+          "description": "Crystal version manager",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2019-04-12T14:50:27Z",
+            "owner": "crenv",
+            "repo": "crenv",
+            "stars": 238
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "asdf-crystal",
+          "description": "Plugin for asdf version manager",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-09-13T23:43:41Z",
+            "owner": "asdf-community",
+            "repo": "asdf-crystal",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rcm.cr",
+          "description": "Redis Cluster Manager",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2020-07-03T14:04:04Z",
+            "owner": "maiha",
+            "repo": "rcm.cr",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vfox-crystal",
+          "description": "Plugin for vfox version manager",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-07-03T18:34:45Z",
+            "owner": "yanecc",
+            "repo": "vfox-crystal",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Environment Management"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "crystal-patterns",
+          "description": "Examples of GOF patters",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2025-11-20T15:17:29Z",
+            "owner": "crystal-community",
+            "repo": "crystal-patterns",
+            "stars": 308
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "exercism-crystal",
+          "description": "Exercism exercises",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-08-01T21:21:05Z",
+            "owner": "exercism",
+            "repo": "crystal",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crystalworld",
+          "description": "realworld.io back-end API implementation",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Crystal",
+            "last_commit": "2021-04-27T11:37:15Z",
+            "owner": "vladfaust",
+            "repo": "crystalworld",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "try.cr",
+          "description": "Try monad",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2022-10-16T11:30:24Z",
+            "owner": "maiha",
+            "repo": "try.cr",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "blackjack-cr",
+          "description": "Console Blackjack",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2024-12-27T18:14:30Z",
+            "owner": "gdonald",
+            "repo": "blackjack-cr",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Examples and funny stuff"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "graphql-crystal",
+          "description": "GraphQL implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2020-07-01T01:39:51Z",
+            "owner": "ziprandom",
+            "repo": "graphql-crystal",
+            "stars": 213
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tourmaline",
+          "description": "Telegram bot framework with an API loosely based on telegraf.js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2025-11-14T19:35:25Z",
+            "owner": "protoncr",
+            "repo": "tourmaline",
+            "stars": 166
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "graphql",
+          "description": "Type-safe GraphQL server implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-08-08T17:01:32Z",
+            "owner": "graphql-crystal",
+            "repo": "graphql",
+            "stars": 139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "multi-auth",
+          "description": "Standardized multi-provider OAuth2 authentication (inspired by omniauth)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2025-12-04T11:28:44Z",
+            "owner": "msa7",
+            "repo": "multi_auth",
+            "stars": 117
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shrine.cr",
+          "description": "File Attachment toolkit for Crystal applications. Heavily inspired by Shrine for Ruby",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2022-08-31T13:38:56Z",
+            "owner": "jetrockets",
+            "repo": "shrine.cr",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Exception Page",
+          "description": "An exceptional exception page for Crystal web libraries and frameworks",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-03-15T21:07:24Z",
+            "owner": "crystal-loot",
+            "repo": "exception_page",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kemal-session",
+          "description": "Session handler for Kemal",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-06-02T07:33:06Z",
+            "owner": "kemalcr",
+            "repo": "kemal-session",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "praetorian",
+          "description": "Minimalist authorization library inspired by Pundit",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2022-01-18T14:44:20Z",
+            "owner": "ilanusse",
+            "repo": "praetorian",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shield",
+          "description": "Comprehensive security for Lucky framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-08-09T09:33:14Z",
+            "owner": "GrottoPress",
+            "repo": "shield",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "motion.cr",
+          "description": "Object oriented frontend library for Amber",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2021-04-10T15:11:29Z",
+            "owner": "AndiLavera",
+            "repo": "motion.cr",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mochi",
+          "description": "Authentication shard inspired by Devise supporting: Authenticable, Confirmable, Invitable & more",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2020-11-19T21:33:34Z",
+            "owner": "AndiLavera",
+            "repo": "mochi",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "device_detector",
+          "description": "Shard for detect device by user agent string",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-08-06T10:22:11Z",
+            "owner": "creadone",
+            "repo": "device_detector",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Athena Event Dispatcher",
+          "description": "A Mediator and Observer pattern event library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-05-03T21:40:21Z",
+            "owner": "athena-framework",
+            "repo": "event-dispatcher",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Athena Negotiation",
+          "description": "Framework agnostic content negotiation library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-02-08T06:10:21Z",
+            "owner": "athena-framework",
+            "repo": "negotiation",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rbacr",
+          "description": "Role-Based Access Control system with a clean, type-safe DSL for roles, privileges, and authorization logic",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2025-09-28T17:33:02Z",
+            "owner": "systatum",
+            "repo": "rbacr",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Framework Components"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CrSFML",
+          "description": "Bindings to SFML multimedia/game library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2025-11-23T11:02:56Z",
+            "owner": "oprypin",
+            "repo": "crsfml",
+            "stars": 356
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Raylib-cr",
+          "description": "Direct bindings to Raylib, which supports Linux, Windows, and Mac",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-12T16:57:12Z",
+            "owner": "sol-vin",
+            "repo": "raylib-cr",
+            "stars": 117
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crystal-chipmunk",
+          "description": "Bindings to Chipmunk, a fast and lightweight 2D game physics library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2025-10-26T20:46:39Z",
+            "owner": "oprypin",
+            "repo": "crystal-chipmunk",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "entitas.cr",
+          "description": "A Entity Component System Framework for Crystal",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2024-12-16T19:48:08Z",
+            "owner": "spoved",
+            "repo": "entitas.cr",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MyECS",
+          "description": "A Sparse Entity Component System Framework for Crystal",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2024-02-16T20:54:36Z",
+            "owner": "konovod",
+            "repo": "myecs",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crystal-imgui-sfml",
+          "description": "Bindings to integrate Dear ImGui into an SFML project",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2025-11-23T11:08:53Z",
+            "owner": "oprypin",
+            "repo": "crystal-imgui-sfml",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SDL-Crystal-Bindings",
+          "description": "Direct (unsafe) bindings to SDL2, intended for writing own game libraries",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-03-24T17:33:50Z",
+            "owner": "Hadeweka",
+            "repo": "SDL-Crystal-Bindings",
+            "stars": 16
+          }
+        }
+      ],
+      "title": "Game Development"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GTK4.cr",
+          "description": "Bindings for GTK4 with Crystalized API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2025-09-05T18:20:28Z",
+            "owner": "hugopl",
+            "repo": "gtk4.cr",
+            "stars": 126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crystal-imgui",
+          "description": "Bindings to Dear ImGui, an immediate-mode graphical UI library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2025-11-23T11:23:17Z",
+            "owner": "oprypin",
+            "repo": "crystal-imgui",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Iu",
+          "description": "UI framework based on the Fusion/libui.cr library, with custom elements and modified bindings from hedron-crystal/hedron",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2024-02-19T04:35:11Z",
+            "owner": "grkek",
+            "repo": "iu",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CrymbleUI",
+          "description": "A nice and fast GUI framework for Crystal. Declarative DSL, Reactive State, Performant, Rich Widget Set including VirtualMatrix and RecursiveGrid",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-08-09T20:55:22Z",
+            "owner": "wolfgang371",
+            "repo": "crymbleui",
+            "stars": 45
+          }
+        }
+      ],
+      "title": "GUI Development"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "blueprint",
+          "description": "Write reusable and testable HTML templates in plain Crystal",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-01-05T20:14:35Z",
+            "owner": "stephannv",
+            "repo": "blueprint",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "form_builder.cr",
+          "description": "Dead simple HTML form builder for Crystal with built-in support for many popular UI libraries such as Bootstrap",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2025-01-18T03:43:05Z",
+            "owner": "westonganger",
+            "repo": "form_builder.cr",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Water",
+          "description": "A library for writing HTML in plain Crystal",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2025-01-14T06:37:01Z",
+            "owner": "shootingfly",
+            "repo": "water",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "to_html",
+          "description": "The fastest HTML builder engine for Crystal",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-03-04T20:56:02Z",
+            "owner": "sbsoftware",
+            "repo": "to_html.cr",
+            "stars": 20
+          }
+        }
+      ],
+      "title": "HTML Builders"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "lexbor",
+          "description": "Fast HTML5 Parser that includes CSS selectors",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-20T14:55:03Z",
+            "owner": "kostya",
+            "repo": "lexbor",
+            "stars": 113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "docx_cr_converter",
+          "description": "parse DOCX Word",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2023-06-22T14:45:42Z",
+            "owner": "aristotelesbr",
+            "repo": "docx_cr_converter",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "HTML/XML Parsing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "crest",
+          "description": "Simple HTTP and REST client, inspired by the Ruby's RestClient gem",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-07-26T11:53:11Z",
+            "owner": "mamantoha",
+            "repo": "crest",
+            "stars": 249
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cryload",
+          "description": "cryload is a powerful, fast, and practical HTTP benchmarking tool for stress testing APIs and web services",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-08-11T10:24:27Z",
+            "owner": "sdogruyol",
+            "repo": "cryload",
+            "stars": 214
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "halite",
+          "description": "Crystal HTTP Requests with a chainable REST API, built-in sessions and loggers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2022-03-22T02:42:32Z",
+            "owner": "icyleaf",
+            "repo": "halite",
+            "stars": 172
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cable",
+          "description": "An ActionCable \"port\" to Crystal, framework agnostic, 100% compatible with the ActionCable JS Client",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-05-07T23:46:27Z",
+            "owner": "cable-cr",
+            "repo": "cable",
+            "stars": 136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crul",
+          "description": "Command line HTTP client",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Crystal",
+            "last_commit": "2020-06-04T08:10:02Z",
+            "owner": "porras",
+            "repo": "crul",
+            "stars": 113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cossack",
+          "description": "Simple flexible HTTP client",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2020-07-08T19:58:39Z",
+            "owner": "crystal-community",
+            "repo": "cossack",
+            "stars": 110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "http2",
+          "description": "HTTP/2 Protocol Implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-08-12T12:26:05Z",
+            "owner": "ysbaddaden",
+            "repo": "http2",
+            "stars": 107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "http-protection",
+          "description": "Protection against typical web attacks",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2023-06-17T15:30:36Z",
+            "owner": "rogeriozambon",
+            "repo": "http-protection",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sse.cr",
+          "description": "Server-Sent Events client",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-04-26T07:44:11Z",
+            "owner": "y2k2mt",
+            "repo": "sse.cr",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "http-multiserver.cr",
+          "description": "Mounting multiple servers via routes (a.k.a. URL mapping)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Crystal",
+            "last_commit": "2019-12-13T13:19:23Z",
+            "owner": "vladfaust",
+            "repo": "http-multiserver.cr",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "http-params-serializable",
+          "description": "HTTP params (de)serialization, applicable to URL queries and URL-encoded forms",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Crystal",
+            "last_commit": "2021-03-24T05:27:48Z",
+            "owner": "vladfaust",
+            "repo": "http-params-serializable",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "proxy-fetcher.cr",
+          "description": "Proxy lists fetching & validating library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2022-02-05T09:33:45Z",
+            "owner": "nbulaj",
+            "repo": "proxy-fetcher.cr",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "digest-auth",
+          "description": "Digest authentication",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2021-05-26T01:53:16Z",
+            "owner": "spider-gazelle",
+            "repo": "digest-auth",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ntlm",
+          "description": "NTLM authentication",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2021-05-25T10:06:40Z",
+            "owner": "spider-gazelle",
+            "repo": "ntlm",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "link-header",
+          "description": "HTTP Link Header Parser",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2021-05-26T00:40:22Z",
+            "owner": "spider-gazelle",
+            "repo": "link-header",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "HTTP"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "stumpy_png",
+          "description": "Read and write PNG images",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2023-12-05T01:37:20Z",
+            "owner": "stumpycr",
+            "repo": "stumpy_png",
+            "stars": 108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "celestine",
+          "description": "Create SVG images using a DSL",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2023-12-05T22:01:42Z",
+            "owner": "celestinecr",
+            "repo": "celestine",
+            "stars": 96
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pluto",
+          "description": "A fast and convenient image processing library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2025-01-31T14:26:03Z",
+            "owner": "phenopolis",
+            "repo": "pluto",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ffmpeg",
+          "description": "FFmpeg bindings that works with StumpyPNG to extract frames",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2024-07-30T08:53:09Z",
+            "owner": "spider-gazelle",
+            "repo": "ffmpeg",
+            "stars": 22
+          }
+        }
+      ],
+      "title": "Image processing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "mint-lang",
+          "description": "A refreshing programming language for the front-end web",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-08-04T03:22:28Z",
+            "owner": "mint-lang",
+            "repo": "mint",
+            "stars": 4262
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cltk",
+          "description": "A crystal port of the Ruby Language Toolkit",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2023-04-02T12:56:23Z",
+            "owner": "ziprandom",
+            "repo": "cltk",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crisp",
+          "description": "Lisp dialect implemented with Crystal",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2023-03-15T08:56:07Z",
+            "owner": "rhysd",
+            "repo": "Crisp",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "novika",
+          "description": "A free-form, moldable, interpreted programming language",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Crystal",
+            "last_commit": "2025-02-05T21:31:44Z",
+            "owner": "novika-lang",
+            "repo": "novika",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GiavaScript",
+          "description": "Open-source, cross-platform JavaScript runtime",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-08-12T06:24:18Z",
+            "owner": "GiavaScript",
+            "repo": "GiavaScript",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Implementations/Compilers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Rosetta",
+          "description": "A blazing fast internationalization (i18n) library with compile-time key lookup supporting YAML and JSON formats",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2025-11-09T10:09:42Z",
+            "owner": "wout",
+            "repo": "rosetta",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crystal-i18n",
+          "description": "An internationalization library inspired by Ruby-I18n",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-07-25T01:53:15Z",
+            "owner": "crystal-i18n",
+            "repo": "i18n",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "i18n.cr",
+          "description": "Internationalization shard",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Crystal",
+            "last_commit": "2021-07-09T20:40:49Z",
+            "owner": "vladfaust",
+            "repo": "i18n.cr",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lens",
+          "description": "A multiformat internationalization (i18n) shard for Crystal. Supports Gettext, Ruby YAML, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2021-10-15T21:29:50Z",
+            "owner": "syeopite",
+            "repo": "lens",
+            "stars": 19
+          }
+        }
+      ],
+      "title": "Internationalization"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "statsd.cr",
+          "description": "Statsd client library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2023-06-16T22:44:47Z",
+            "owner": "miketheman",
+            "repo": "statsd.cr",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crafana",
+          "description": "A Grafana library to help autogenerate dashboards",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2024-01-26T20:42:53Z",
+            "owner": "spoved",
+            "repo": "crafana.cr",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fiber_metrics.cr",
+          "description": "Track run time, wait time, or memory allocations per , method or block",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2022-06-06T03:33:14Z",
+            "owner": "didactic-drunk",
+            "repo": "fiber_metrics.cr",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Logging and monitoring"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Cadmium",
+          "description": "NLP library based heavily on natural",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Just",
+            "last_commit": "2026-01-05T05:58:29Z",
+            "owner": "cadmiumcr",
+            "repo": "cadmium",
+            "stars": 211
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shainet",
+          "description": "SHAInet (Neural Network in pure crystal)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-08-06T09:52:31Z",
+            "owner": "NeuraLegion",
+            "repo": "shainet",
+            "stars": 197
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crystal-fann",
+          "description": "FANN (Fast Artifical Neural Network) binding",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-01-15T06:23:32Z",
+            "owner": "NeuraLegion",
+            "repo": "crystal-fann",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ai4cr",
+          "description": "Artificial Intelligence (based on https://github.com/SergioFierens/ai4r)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2021-10-04T01:02:32Z",
+            "owner": "drhuffman12",
+            "repo": "ai4cr",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mxnet.cr",
+          "description": "Bindings for MXNet",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2021-07-16T12:09:59Z",
+            "owner": "toddsundsted",
+            "repo": "mxnet.cr",
+            "stars": 22
+          }
+        }
+      ],
+      "title": "Machine Learning"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "markd",
+          "description": "Yet another markdown parser built for speed, Compliant to CommonMark specification",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-07-14T00:50:50Z",
+            "owner": "icyleaf",
+            "repo": "markd",
+            "stars": 127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cr-cmark-gfm",
+          "description": "Crystal C bindings for cmark-gfm to work with Commonmark and Github Flavored Markdown",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2025-04-01T13:53:14Z",
+            "owner": "amauryt",
+            "repo": "cr-cmark-gfm",
+            "stars": 22
+          }
+        }
+      ],
+      "title": "Markdown/Text Processors"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "immutable",
+          "description": "Implementation of thread-safe, persistent, immutable collections",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2021-06-04T09:14:53Z",
+            "owner": "lucaong",
+            "repo": "immutable",
+            "stars": 203
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "anyolite",
+          "description": "Full mruby interpreter with simple bindings, allowing for easy scripting support in projects",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-06-02T16:29:18Z",
+            "owner": "Anyolite",
+            "repo": "anyolite",
+            "stars": 179
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crz",
+          "description": "Functional programming library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2021-05-14T23:12:11Z",
+            "owner": "dhruvrajvanshi",
+            "repo": "crz",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crystal-web-framework-stars",
+          "description": "Web frameworks for Crystal, most starred on Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-09T00:40:55Z",
+            "owner": "isaced",
+            "repo": "crystal-web-framework-stars",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lua.cr",
+          "description": "Bindings to liblua and a wrapper around it",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-08-09T12:58:42Z",
+            "owner": "veelenga",
+            "repo": "lua.cr",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aasm.cr",
+          "description": "Easy to use finite state machine for Crystal classes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2025-11-20T20:02:52Z",
+            "owner": "veelenga",
+            "repo": "aasm.cr",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "emoji.cr",
+          "description": "Emoji library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2023-09-21T10:20:42Z",
+            "owner": "veelenga",
+            "repo": "emoji.cr",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "monads",
+          "description": "Monad implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-06-12T15:57:25Z",
+            "owner": "alex-lairan",
+            "repo": "monads",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "retriable.cr",
+          "description": "Simple DSL to retry failed code blocks",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2024-07-04T00:21:47Z",
+            "owner": "Sija",
+            "repo": "retriable.cr",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "any_hash.cr",
+          "description": "Recursive Hash with better JSON::Any included",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2025-04-23T01:06:38Z",
+            "owner": "Sija",
+            "repo": "any_hash.cr",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wafalyzer",
+          "description": "Web Application Firewall (WAF) Detector - shard + cli",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2023-03-13T09:52:28Z",
+            "owner": "NeuraLegion",
+            "repo": "wafalyzer",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "circuit_breaker",
+          "description": "Implementation of the circuit breaker pattern",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2023-04-10T13:23:06Z",
+            "owner": "TPei",
+            "repo": "circuit_breaker",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "burocracia.cr",
+          "description": "burocracia.cr the dependecyless shard to validate, generate and format Brazilian burocracias such as CPF, CNPJ and CEP",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2024-06-10T15:03:48Z",
+            "owner": "vinibrsl",
+            "repo": "burocracia.cr",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crystal-binary_parser",
+          "description": "Binary parser",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2022-03-13T01:17:30Z",
+            "owner": "DanSnow",
+            "repo": "crystal-binary_parser",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "defined",
+          "description": "macros for conditional compilation based on constant definitions, version requirements, or environment variable settings",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2024-10-08T15:31:45Z",
+            "owner": "wyhaines",
+            "repo": "defined.cr",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gphoto2-web.cr",
+          "description": "Web API for libgphoto2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-06-18T19:02:32Z",
+            "owner": "Sija",
+            "repo": "gphoto2-web",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zaru_crystal",
+          "description": "Filename sanitization",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2021-04-17T20:36:23Z",
+            "owner": "szTheory",
+            "repo": "zaru_crystal",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "callbacks",
+          "description": "Expressive callbacks module",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Crystal",
+            "last_commit": "2021-03-25T05:41:09Z",
+            "owner": "vladfaust",
+            "repo": "callbacks.cr",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pinger",
+          "description": "Ping IP addresses and DNS entries without requiring sudo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2022-04-02T00:21:35Z",
+            "owner": "spider-gazelle",
+            "repo": "pinger",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CrSignals",
+          "description": "Signals/slots notification library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2019-12-27T14:56:23Z",
+            "owner": "firejox",
+            "repo": "CrSignals",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sslscan.cr",
+          "description": "Crystal shard wrapping the rbsec/sslscan utility",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2021-10-25T08:59:22Z",
+            "owner": "NeuraLegion",
+            "repo": "sslscan.cr",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "version_tools",
+          "description": "Version-dependent behaviour, specified at compile-time",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2020-07-17T11:45:18Z",
+            "owner": "anicholson",
+            "repo": "crystal-version-tools",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "observable",
+          "description": "Implementation of the observer pattern",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2023-04-10T13:22:37Z",
+            "owner": "TPei",
+            "repo": "observable",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "simple_retry",
+          "description": "Simple tool for retrying failed code blocks",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2025-06-03T09:45:44Z",
+            "owner": "spider-gazelle",
+            "repo": "simple_retry",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "luajit.cr",
+          "description": "LuaJIT bindings for Crystal",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2025-09-02T12:47:20Z",
+            "owner": "mdwagner",
+            "repo": "luajit.cr",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "port_midi",
+          "description": "Crystal C bindings for the PortMIDI cross-platform MIDI I/O library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2024-05-08T19:37:26Z",
+            "owner": "jimm",
+            "repo": "crystal_port_midi",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iterm2",
+          "description": "Display images within the terminal using the ITerm2 Inline Images Protocol",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2021-07-09T23:47:07Z",
+            "owner": "toddsundsted",
+            "repo": "iterm2",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sentry",
+          "description": "Build/Runs your crystal application, watches files, and rebuilds/restarts app on file changes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-02-18T16:34:34Z",
+            "owner": "crystal-china",
+            "repo": "sentry",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "serf-handler.cr",
+          "description": "Framework for building Serf handlers, with a suite of useful builtin capabilities",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2021-03-23T03:14:56Z",
+            "owner": "wyhaines",
+            "repo": "serf-handler.cr",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Misc"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "jwt",
+          "description": "Implementation of JWT (JSON Web Token)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-07-20T22:31:54Z",
+            "owner": "crystal-community",
+            "repo": "jwt",
+            "stars": 212
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "msgpack-crystal",
+          "description": "MessagePack library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2025-11-24T12:11:39Z",
+            "owner": "crystal-community",
+            "repo": "msgpack-crystal",
+            "stars": 145
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "amqp-client.cr",
+          "description": "AMQP 0-9.1, a messaging protocol, implemented by eg. RabbitMQ",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-07-10T21:02:32Z",
+            "owner": "cloudamqp",
+            "repo": "amqp-client.cr",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "simple_rpc",
+          "description": "RPC Server and Client for Crystal. Implements msgpack-rpc protocol",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2023-05-01T00:58:07Z",
+            "owner": "kostya",
+            "repo": "simple_rpc",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fast_irc.cr",
+          "description": "Fast IRC parser/generator",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2021-03-26T21:18:40Z",
+            "owner": "RX14",
+            "repo": "fast_irc.cr",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Crirc",
+          "description": "IRC protocol implementation (Client, Server, Bots)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2021-01-25T11:04:38Z",
+            "owner": "Meoowww",
+            "repo": "Crirc",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crystal-mqtt",
+          "description": "A MQTT client",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-08-10T10:53:20Z",
+            "owner": "spider-gazelle",
+            "repo": "crystal-mqtt",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cr-xmpp",
+          "description": "XMPP/Jabber Library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-08-07T14:20:46Z",
+            "owner": "naqvis",
+            "repo": "cr-xmpp",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crystal-snmp",
+          "description": "An SNMP implementation with version 1, 2c and 3 support",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-07-14T07:29:14Z",
+            "owner": "spider-gazelle",
+            "repo": "crystal-snmp",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dns",
+          "description": "DNS protocol implementation and resolver",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-06-17T11:17:59Z",
+            "owner": "spider-gazelle",
+            "repo": "dns",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crystal-json-socket",
+          "description": "JSON-socket client & server implementation. Inspired by and compatible with node-json-socket and ruby-json-socket",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2023-02-05T09:39:02Z",
+            "owner": "foi",
+            "repo": "crystal-json-socket",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "telnet.cr",
+          "description": "Telnet protocol",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2021-05-26T01:34:58Z",
+            "owner": "spider-gazelle",
+            "repo": "telnet.cr",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Matter",
+          "description": "Matter protocol for smart home and Internet of things (IoT) devices",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-06-05T06:53:53Z",
+            "owner": "Crystal-Matter",
+            "repo": "matter",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mDNS",
+          "description": "DNS Service Discovery and multicast DNS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2024-02-04T03:41:40Z",
+            "owner": "spider-gazelle",
+            "repo": "mdns",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "connect-proxy",
+          "description": "Connect method style of HTTP tunnelling / HTTP proxy",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-07-15T07:10:16Z",
+            "owner": "spider-gazelle",
+            "repo": "connect-proxy",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mqtt-client.cr",
+          "description": "A fast and lightweight MQTT client",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-02-10T09:44:10Z",
+            "owner": "cloudamqp",
+            "repo": "mqtt-client.cr",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "knx",
+          "description": "KNX protocol implementation supporting multicast, unicast and TCP/IP tunnelling",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2024-11-07T19:42:17Z",
+            "owner": "spider-gazelle",
+            "repo": "knx",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "stomp",
+          "description": "STOMP protocol",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-07-17T06:54:06Z",
+            "owner": "spider-gazelle",
+            "repo": "stomp",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crystal-bacnet",
+          "description": "BACnet protocol implementation with BACnet/IP client",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-07-31T04:55:30Z",
+            "owner": "spider-gazelle",
+            "repo": "crystal-bacnet",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Network Protocols"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ipaddress.cr",
+          "description": "Library to handle IPv4 and IPv6 addresses",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2023-10-12T15:45:31Z",
+            "owner": "Sija",
+            "repo": "ipaddress.cr",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mac-address",
+          "description": "Library for working with MAC addresses",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Crystal",
+            "last_commit": "2021-09-27T23:50:10Z",
+            "owner": "automatico",
+            "repo": "mac-address",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Networking"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "jennifer.cr",
+          "description": "Active Record pattern implementation with flexible query chainable builder and migration system",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2025-01-25T21:43:43Z",
+            "owner": "imdrasil",
+            "repo": "jennifer.cr",
+            "stars": 424
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crecto",
+          "description": "Database wrapper, based on Ecto",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-03-05T01:54:22Z",
+            "owner": "Crecto",
+            "repo": "crecto",
+            "stars": 352
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "granite",
+          "description": "ORM for Postgres, Mysql, Sqlite",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-08-05T12:20:54Z",
+            "owner": "amberframework",
+            "repo": "granite",
+            "stars": 307
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "clear",
+          "description": "ORM specialized to PostgreSQL only but with advanced features",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2025-09-08T07:26:35Z",
+            "owner": "anykeyh",
+            "repo": "clear",
+            "stars": 284
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "avram",
+          "description": "A database wrapper for reading, writing, and migrating Postgres databases",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-04-29T14:59:31Z",
+            "owner": "luckyframework",
+            "repo": "avram",
+            "stars": 183
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lustra",
+          "description": "Advanced PostgreSQL ORM with ActiveRecord pattern, full-text search, geometry types, and more",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-07-27T13:38:31Z",
+            "owner": "crystal-garage",
+            "repo": "lustra",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rethinkdb-orm",
+          "description": "ORM for RethinkDB / RebirthDB",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2022-07-03T09:29:45Z",
+            "owner": "spider-gazelle",
+            "repo": "rethinkdb-orm",
+            "stars": 24
+          }
+        }
+      ],
+      "title": "ORM/ODM Extensions"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "neph",
+          "description": "A modern command line job processor that can execute jobs concurrently",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2023-03-08T22:57:49Z",
+            "owner": "tbrand",
+            "repo": "neph",
+            "stars": 205
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "await_async",
+          "description": "Add keywords await & async in Crystal Lang",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2023-09-02T18:32:58Z",
+            "owner": "anykeyh",
+            "repo": "await_async",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "concurrent.cr",
+          "description": "Simplified concurrency using streams/pipelines, waitgroups, semaphores, smores and more",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2022-05-14T18:56:10Z",
+            "owner": "didactic-drunk",
+            "repo": "concurrent.cr",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "promise",
+          "description": "A Promise implementation with type inference",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-05-26T09:59:07Z",
+            "owner": "spider-gazelle",
+            "repo": "promise",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "werk",
+          "description": "Dead simple task runner with concurrent support, ideal for local CI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-03-03T08:27:15Z",
+            "owner": "marghidanu",
+            "repo": "werk",
+            "stars": 32
+          }
+        }
+      ],
+      "title": "Processes and Threads"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "crystal_lib",
+          "description": "Automatic binding generator for native libraries",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2025-09-18T07:46:16Z",
+            "owner": "crystal-lang",
+            "repo": "crystal_lib",
+            "stars": 145
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libgen",
+          "description": "Automatic bindings generator configured using JSON/YAML files",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2025-04-25T14:31:54Z",
+            "owner": "olbat",
+            "repo": "libgen",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fez",
+          "description": "A Kemal application generator",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2021-09-22T14:53:03Z",
+            "owner": "jwoertink",
+            "repo": "fez",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crygen",
+          "description": "A library that allows to generate the Crystal code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2025-12-30T18:05:53Z",
+            "owner": "tamdaz",
+            "repo": "crygen",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "Project Generators"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "sidekiq.cr",
+          "description": "Simple, efficient job processing",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-07-31T20:26:27Z",
+            "owner": "hugopl",
+            "repo": "sidekiq.cr",
+            "stars": 779
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mosquito",
+          "description": "Redis backed periodic and ad hoc job processing",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-07-29T03:55:41Z",
+            "owner": "mosquito-cr",
+            "repo": "mosquito",
+            "stars": 244
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NATS.io",
+          "description": "NATS client",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2022-01-07T20:34:11Z",
+            "owner": "nats-io",
+            "repo": "nats.cr",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crafka",
+          "description": "Apache Kafka library utilizing",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2025-06-26T15:29:00Z",
+            "owner": "BT-OpenSource",
+            "repo": "crafka",
+            "stars": 20
+          }
+        }
+      ],
+      "title": "Queues and Messaging"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "router.cr",
+          "description": "Minimum but powerful http router for HTTP::Server",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2021-06-05T20:00:05Z",
+            "owner": "tbrand",
+            "repo": "router.cr",
+            "stars": 271
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "orion",
+          "description": "A minimal, rails-esque routing library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2025-11-05T00:54:37Z",
+            "owner": "obsidian",
+            "repo": "orion",
+            "stars": 128
+          }
+        }
+      ],
+      "title": "Routing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "schedule.cr",
+          "description": "Run periodic tasks",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2020-10-14T16:45:32Z",
+            "owner": "hugoabonizio",
+            "repo": "schedule.cr",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tasker",
+          "description": "A high precision scheduler including timezone aware cron jobs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-07-09T13:17:52Z",
+            "owner": "spider-gazelle",
+            "repo": "tasker",
+            "stars": 57
+          }
+        }
+      ],
+      "title": "Scheduling"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "num.cr",
+          "description": "Numerical computing library supporting N-Dimensional data",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2024-06-20T18:34:53Z",
+            "owner": "crystal-data",
+            "repo": "num.cr",
+            "stars": 163
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "linalg",
+          "description": "Linear algebra library inspired by MATLAB and SciPy.linalg",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-03-02T13:52:02Z",
+            "owner": "konovod",
+            "repo": "linalg",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ishi",
+          "description": "Graph plotting package with a small API and sensible defaults powered by gnuplot",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2021-07-10T12:54:53Z",
+            "owner": "toddsundsted",
+            "repo": "ishi",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "predict.cr",
+          "description": "Satellite prediction library using the sgp4 model",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2020-04-13T11:31:45Z",
+            "owner": "RX14",
+            "repo": "predict.cr",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "quartz",
+          "description": "Modeling and simulation framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2021-05-22T09:20:39Z",
+            "owner": "RomainFranceschini",
+            "repo": "quartz",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "alea",
+          "description": "Repeatable sampling, CDF and other utilities to work with probability distributions",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Crystal",
+            "last_commit": "2026-06-03T18:53:07Z",
+            "owner": "nin93",
+            "repo": "alea",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Science and Data analysis"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OWASP Noir",
+          "description": "Attack surface detector that identifies endpoints by static analysis",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-08-13T01:49:52Z",
+            "owner": "owasp-noir",
+            "repo": "noir",
+            "stars": 1370
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XSSMaze",
+          "description": "XSSMaze is a web service that tests security tools using diverse XSS cases",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-08-02T05:22:53Z",
+            "owner": "hahwul",
+            "repo": "xssmaze",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cyclonedx-cr",
+          "description": "CycloneDX SBOM(Software Bill of Materials) generator for Crystal projects",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-07-30T13:43:46Z",
+            "owner": "hahwul",
+            "repo": "cyclonedx-cr",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Security"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "crystal_openfaas",
+          "description": "Template to enable crystal as first class citizens in OpenFaaS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-09-09T04:28:11Z",
+            "owner": "TPei",
+            "repo": "crystal_openfaas",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "secrets-env",
+          "description": "Extends ENV module to read values injected by docker / kubernetes secrets and other orchestration tools",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2021-03-22T23:31:22Z",
+            "owner": "spider-gazelle",
+            "repo": "secrets-env",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Serverless Computing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "baked_file_system",
+          "description": "Virtual file system implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-08-01T17:04:00Z",
+            "owner": "schovi",
+            "repo": "baked_file_system",
+            "stars": 187
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hardware",
+          "description": "Get CPU, Memory and Network informations of the running OS and its processes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2025-12-21T15:43:18Z",
+            "owner": "crystal-community",
+            "repo": "hardware",
+            "stars": 76
+          }
+        }
+      ],
+      "title": "System"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "sam",
+          "description": "Another one Rake-like task manager with namespacing and arguments system",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2024-07-01T07:40:56Z",
+            "owner": "imdrasil",
+            "repo": "sam.cr",
+            "stars": 97
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cake",
+          "description": "Production-ready Make-like utility tool",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2022-07-09T18:04:17Z",
+            "owner": "axvm",
+            "repo": "cake",
+            "stars": 73
+          }
+        }
+      ],
+      "title": "Task management"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Slang",
+          "description": "Lightweight, terse, templating language inspired by Ruby's Slim",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-05-09T15:32:03Z",
+            "owner": "jeromegn",
+            "repo": "slang",
+            "stars": 236
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kilt",
+          "description": "Abstraction layer for template engines",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2022-06-01T22:13:15Z",
+            "owner": "jeromegn",
+            "repo": "kilt",
+            "stars": 152
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crinja",
+          "description": "An implementation of the Jinja2 template engine",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-07-21T07:17:03Z",
+            "owner": "straight-shoota",
+            "repo": "crinja",
+            "stars": 145
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crustache",
+          "description": "{{Mustache}} for Crystal",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2024-03-13T10:29:50Z",
+            "owner": "makenowjust",
+            "repo": "crustache",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jbuilder",
+          "description": "Generate JSON objects with a Builder-style DSL, inspired by jbuilder",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2025-01-14T06:26:30Z",
+            "owner": "shootingfly",
+            "repo": "jbuilder",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "teeplate",
+          "description": "A library for rendering multiple template files",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2021-07-01T21:34:12Z",
+            "owner": "mosop",
+            "repo": "teeplate",
+            "stars": 17
+          }
+        }
+      ],
+      "title": "Template Engine"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "minitest.cr",
+          "description": "Library for unit tests and assertions",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-07-09T14:37:53Z",
+            "owner": "ysbaddaden",
+            "repo": "minitest.cr",
+            "stars": 153
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "webmock.cr",
+          "description": "Library for stubbing requests",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2025-03-27T17:57:18Z",
+            "owner": "manastech",
+            "repo": "webmock.cr",
+            "stars": 110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crytic",
+          "description": "Mutation testing framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2025-11-20T16:22:26Z",
+            "owner": "hanneskaeufler",
+            "repo": "crytic",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vcr",
+          "description": "A HTTP capture and replay implementation for crystal",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2022-10-06T14:34:03Z",
+            "owner": "spoved",
+            "repo": "vcr.cr",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LuckyFlow",
+          "description": "Automated browser tests similar to Capybara",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-04-19T18:15:02Z",
+            "owner": "luckyframework",
+            "repo": "lucky_flow",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mocks.cr",
+          "description": "Mocking library for Crystal",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2020-04-16T00:34:33Z",
+            "owner": "waterlink",
+            "repo": "mocks.cr",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "microtest",
+          "description": "Small opinionated testing library focusing on power asserts",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2025-11-16T02:16:29Z",
+            "owner": "Ragmaanir",
+            "repo": "microtest",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crotest",
+          "description": "A tiny and simple test framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2022-01-10T17:40:47Z",
+            "owner": "emancu",
+            "repo": "crotest",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "selenium.cr",
+          "description": "Selenium client for interacting with web pages for browser automation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2024-08-13T16:09:09Z",
+            "owner": "crystal-loot",
+            "repo": "selenium.cr",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "timecop.cr",
+          "description": "Library for mocking with . Inspired by the timecop ruby gem",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-04-10T20:44:14Z",
+            "owner": "crystal-community",
+            "repo": "timecop.cr",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mass-spec",
+          "description": "Web API testing library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2023-06-21T12:03:40Z",
+            "owner": "c910335",
+            "repo": "mass-spec",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "webdriver_pump",
+          "description": "Page Object library. Inspired by Ruby's WatirPump",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2021-06-12T08:20:50Z",
+            "owner": "bwilczek",
+            "repo": "webdriver_pump",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Athena Spec",
+          "description": "Common/helpful Spec compliant testing utilities",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-04-19T23:29:15Z",
+            "owner": "athena-framework",
+            "repo": "spec",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hashr",
+          "description": "A tiny class makes test on JSON response easier",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2025-06-25T13:35:23Z",
+            "owner": "crystal-china",
+            "repo": "hashr",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Testing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "raven.cr",
+          "description": "Raven is a client for Sentry",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-07-06T13:59:12Z",
+            "owner": "Sija",
+            "repo": "raven.cr",
+            "stars": 133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awscr-s3",
+          "description": "AWS S3 interface",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-08-11T18:29:39Z",
+            "owner": "taylorfinnell",
+            "repo": "awscr-s3",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "twitter-crystal",
+          "description": "A library to access the Twitter API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2020-09-03T01:14:04Z",
+            "owner": "sferik",
+            "repo": "twitter-crystal",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "stripe.cr",
+          "description": "Stripe api wrapper",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2025-12-12T08:01:16Z",
+            "owner": "confact",
+            "repo": "stripe.cr",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gitlab.cr",
+          "description": "GitLab API wrapper",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2021-03-24T03:49:05Z",
+            "owner": "icyleaf",
+            "repo": "gitlab.cr",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "google",
+          "description": "Google API wrapper",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2024-05-25T00:48:17Z",
+            "owner": "PlaceOS",
+            "repo": "google",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awscr-signer",
+          "description": "Sign HTTP::Request objects and generate presigned post forms",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2025-04-17T06:58:02Z",
+            "owner": "taylorfinnell",
+            "repo": "awscr-signer",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mollie.cr",
+          "description": "Mollie Payments API wrapper (Creditcard, PayPal, Apple Pay, Sofort, Klarna, ...)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-04-06T14:13:03Z",
+            "owner": "wout",
+            "repo": "mollie.cr",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kube-client.cr",
+          "description": "Kubernetes API Client",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2023-09-26T14:52:04Z",
+            "owner": "spoved",
+            "repo": "kube-client.cr",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crystal-consul",
+          "description": "Consul API client",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2020-04-22T21:22:31Z",
+            "owner": "rogerwelin",
+            "repo": "crystal-consul",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crystal_slack",
+          "description": "A tool that parses Slack slash commands or send incoming web hooks",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2023-07-06T10:27:13Z",
+            "owner": "manastech",
+            "repo": "crystal_slack",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aws-signer.cr",
+          "description": "This library signs your HTTP requests using AWS v4",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-04-02T20:29:09Z",
+            "owner": "beanieboi",
+            "repo": "aws-signer.cr",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "office365",
+          "description": "Microsoft Graph API wrapper",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-06-25T05:09:41Z",
+            "owner": "PlaceOS",
+            "repo": "office365",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "web_finger",
+          "description": "A WebFinger (https://tools.ietf.org/html/rfc7033) client",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Crystal",
+            "last_commit": "2025-01-07T13:17:01Z",
+            "owner": "toddsundsted",
+            "repo": "web_finger",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crystal-darksky",
+          "description": "Wrapper for the Dark Sky API",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Crystal",
+            "last_commit": "2022-05-02T09:11:40Z",
+            "owner": "sb89",
+            "repo": "crystal-darksky",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GDAX",
+          "description": "GDAX REST and WebSocket API Wrapper with request signing",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2019-10-05T05:20:37Z",
+            "owner": "mccallofthewild",
+            "repo": "gdax",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pinboard.cr",
+          "description": "Pinboard API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2022-01-26T03:38:34Z",
+            "owner": "oz",
+            "repo": "pinboard.cr",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crystal-swapi",
+          "description": "Star Wars API (SWAPI) wrapper",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2017-08-18T07:23:49Z",
+            "owner": "sb89",
+            "repo": "crystal-swapi",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmdb.cr",
+          "description": "The Movie DB (TMDb) api wrapper",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2025-12-10T00:48:02Z",
+            "owner": "mmacia",
+            "repo": "tmdb.cr",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ynab.cr",
+          "description": "A library to interact with your YNAB data",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2021-01-26T04:52:03Z",
+            "owner": "jaredsmithse",
+            "repo": "ynab.cr",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "host_meta",
+          "description": "A Web Host Metadata (https://tools.ietf.org/html/rfc6415) client",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Crystal",
+            "last_commit": "2025-01-07T13:20:38Z",
+            "owner": "toddsundsted",
+            "repo": "host_meta",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "amazonite",
+          "description": "An unofficial SDK supporting popular AWS APIs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2023-02-21T09:03:35Z",
+            "owner": "rjnienaber",
+            "repo": "amazonite",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mixpanel-crystal",
+          "description": "A library for sending events to Mixpanel",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Crystal",
+            "last_commit": "2019-10-29T10:21:35Z",
+            "owner": "petoem",
+            "repo": "mixpanel-crystal",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Third-party APIs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "validator",
+          "description": "Data check and validation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2021-06-19T09:52:22Z",
+            "owner": "Nicolab",
+            "repo": "crystal-validator",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "accord",
+          "description": "Shareable validation library for Crystal Objects",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2020-11-12T13:29:04Z",
+            "owner": "neovintage",
+            "repo": "accord",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "validations",
+          "description": "Validations mixin",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Crystal",
+            "last_commit": "2020-06-10T16:56:35Z",
+            "owner": "vladfaust",
+            "repo": "validations.cr",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Athena Validator",
+          "description": "Robust & flexible validation framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-04-19T23:29:11Z",
+            "owner": "athena-framework",
+            "repo": "validator",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Validation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "kemal",
+          "description": "Lightning Fast, Super Simple web framework. Inspired by Sinatra",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-08-05T18:04:31Z",
+            "owner": "kemalcr",
+            "repo": "kemal",
+            "stars": 3904
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lucky",
+          "description": "Catch bugs early, forget about most performance issues, and spend more time on code instead of debugging and writing tests",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-08-10T23:15:27Z",
+            "owner": "luckyframework",
+            "repo": "lucky",
+            "stars": 2725
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "amber",
+          "description": "Open source efficient and cohesive web application framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-08-12T04:22:59Z",
+            "owner": "amberframework",
+            "repo": "amber",
+            "stars": 2602
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "marten",
+          "description": "A web framework that makes building web applications easy, productive, and fun",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-08-10T08:46:40Z",
+            "owner": "martenframework",
+            "repo": "marten",
+            "stars": 476
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grip",
+          "description": "The microframework for writing powerful web applications",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-08-12T03:28:23Z",
+            "owner": "grip-framework",
+            "repo": "grip",
+            "stars": 292
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Athena",
+          "description": "A web framework comprised of reusable, independent components",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-08-07T00:04:44Z",
+            "owner": "athena-framework",
+            "repo": "athena",
+            "stars": 236
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "spider-gazelle",
+          "description": "A Rails esque web framework with a focus on speed and extensibility",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-08-13T01:45:26Z",
+            "owner": "spider-gazelle",
+            "repo": "spider-gazelle",
+            "stars": 191
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "runcobo",
+          "description": "An api framework with simple, intuitive and consistent DSL, using jbuilder to render json",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2025-01-14T06:39:03Z",
+            "owner": "runcobo",
+            "repo": "runcobo",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shivneri",
+          "description": "Component based MVC web framework for crystal targeting good code structures, modularity & performance",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2021-05-06T12:56:44Z",
+            "owner": "ujjwalguptaofficial",
+            "repo": "shivneri",
+            "stars": 23
+          }
+        }
+      ],
+      "title": "Web Frameworks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DPPM",
+          "description": "An easy, universal way to install and manage applications as packages (mostly Linux)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2020-07-09T20:56:54Z",
+            "owner": "DFabric",
+            "repo": "dppm",
+            "stars": 119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ansible-crystal",
+          "description": "Ansible playbook for installing crystal",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Nix",
+            "last_commit": "2024-05-20T17:14:46Z",
+            "owner": "CorbanR",
+            "repo": "ansible-crystal",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "DevOps"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Acme:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "acmecrystal",
+              "description": "Reformats crystal code in acme",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2019-10-07T16:35:05Z",
+                "owner": "ilanpillemer",
+                "repo": "acmecrystal",
+                "stars": 6
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Emacs",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "crystal-mode",
+              "description": "Crystal language support for Emacs (crystal-lang-tools/emacs-crystal-mode)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Emacs Lisp",
+                "last_commit": "2026-06-07T20:43:49Z",
+                "owner": "crystal-lang-tools",
+                "repo": "emacs-crystal-mode",
+                "stars": 54
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Geany",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "geany-crystal",
+              "description": "Crystal support for the Geany editor",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2023-06-01T13:59:17Z",
+                "owner": "crystal-lang-tools",
+                "repo": "geany-crystal",
+                "stars": 9
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "IntelliJ IDEA",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "intellij-crystal-lang",
+              "description": "Crystal support for the JetBrains IDEs",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Kotlin",
+                "last_commit": "2023-11-11T22:56:50Z",
+                "owner": "asedunov",
+                "repo": "intellij-crystal-lang",
+                "stars": 41
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Lite-XL",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "lite-plugin-crystal",
+              "description": "Crystal support for the Lite-XL editor",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Lua",
+                "last_commit": "2023-02-11T23:09:25Z",
+                "owner": "Tamnac",
+                "repo": "lite-plugin-crystal",
+                "stars": 6
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Spacemacs",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "crystal-spacemacs-layer",
+              "description": "Spacemacs contribution layer for Crystal",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Emacs Lisp",
+                "last_commit": "2016-10-11T15:26:01Z",
+                "owner": "juanedi",
+                "repo": "crystal-spacemacs-layer",
+                "stars": 12
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Sublime",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "sublime-crystal",
+              "description": "Crystal syntax highlighting for sublime Text",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-06-01T13:57:05Z",
+                "owner": "crystal-lang-tools",
+                "repo": "sublime-crystal",
+                "stars": 90
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "TextMate",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Crystal.tmbundle",
+              "description": "Crystal syntax highlighting, compile, format command, snippets",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2023-06-01T13:55:36Z",
+                "owner": "crystal-lang-tools",
+                "repo": "Crystal.tmbundle",
+                "stars": 20
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Vim",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "vim-crystal",
+              "description": "Vim filetype support for Crystal",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Vim Script",
+                "last_commit": "2023-03-15T04:38:13Z",
+                "owner": "vim-crystal",
+                "repo": "vim-crystal",
+                "stars": 427
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vim-slang",
+              "description": "Vim filetype support for Slang Templating Engine",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "VimL",
+                "last_commit": "2016-04-17T19:29:11Z",
+                "owner": "elorest",
+                "repo": "vim-slang",
+                "stars": 13
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Visual Studio Code",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "vscode-crystal-lang",
+              "description": "Formatter, linter and syntax highlighting for and files",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-07-10T17:36:35Z",
+                "owner": "crystal-lang-tools",
+                "repo": "vscode-crystal-lang",
+                "stars": 298
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Editor Plugins"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "crystalline",
+          "description": "Crystalline is an implementation of the Language Server Protocol written in and for the Crystal Language",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-08-12T22:52:05Z",
+            "owner": "elbywan",
+            "repo": "crystalline",
+            "stars": 518
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scry",
+          "description": "Code analysis server for Crystal implementing the Language Server Protocol",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Crystal",
+            "last_commit": "2023-05-06T08:47:29Z",
+            "owner": "crystal-lang-tools",
+            "repo": "scry",
+            "stars": 328
+          }
+        }
+      ],
+      "title": "LSP Language Server Protocol Implementations"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "crun",
+          "description": "Crystal Run : shebang wrapper for Crystal",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2024-01-18T23:45:00Z",
+            "owner": "Val",
+            "repo": "crun",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crystal-zsh",
+          "description": ".oh-my-zsh plugin",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2020-04-20T11:54:33Z",
+            "owner": "veelenga",
+            "repo": "crystal-zsh",
+            "stars": 28
+          }
+        }
+      ],
+      "title": "Shell plugins"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:08:53.848Z",
+    "original_repository": "veelenga/awesome-crystal",
+    "original_repository_sha": "3631c21a25880fd2f3e886bbc8577cc1abf6377f",
+    "enhanced_repository": "enhansome/enhansome-crystal",
+    "enhanced_repository_description": null,
+    "title": "Awesome Crystal with stars"
+  }
+}
