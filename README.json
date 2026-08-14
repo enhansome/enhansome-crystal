@@ -898,7 +898,7 @@
             "last_commit": "2026-06-24T12:27:23Z",
             "owner": "vitobotta",
             "repo": "hetzner-k3s",
-            "stars": 3660
+            "stars": 3661
           }
         },
         {
@@ -2399,7 +2399,7 @@
           "repo_info": {
             "archived": false,
             "language": "Crystal",
-            "last_commit": "2026-03-24T17:33:50Z",
+            "last_commit": "2026-08-13T21:27:15Z",
             "owner": "Hadeweka",
             "repo": "SDL-Crystal-Bindings",
             "stars": 16
@@ -5163,7 +5163,7 @@
           "repo_info": {
             "archived": false,
             "language": "Crystal",
-            "last_commit": "2026-08-13T15:48:54Z",
+            "last_commit": "2026-08-14T13:56:59Z",
             "owner": "kemalcr",
             "repo": "kemal",
             "stars": 3905
@@ -5191,7 +5191,7 @@
           "repo_info": {
             "archived": false,
             "language": "Crystal",
-            "last_commit": "2026-08-12T04:22:59Z",
+            "last_commit": "2026-08-13T17:04:24Z",
             "owner": "amberframework",
             "repo": "amber",
             "stars": 2602
@@ -5205,7 +5205,7 @@
           "repo_info": {
             "archived": false,
             "language": "Crystal",
-            "last_commit": "2026-08-10T08:46:40Z",
+            "last_commit": "2026-08-14T11:46:14Z",
             "owner": "martenframework",
             "repo": "marten",
             "stars": 476
@@ -5233,7 +5233,7 @@
           "repo_info": {
             "archived": false,
             "language": "Crystal",
-            "last_commit": "2026-08-07T00:04:44Z",
+            "last_commit": "2026-08-14T13:12:34Z",
             "owner": "athena-framework",
             "repo": "athena",
             "stars": 236
@@ -5559,7 +5559,7 @@
           "repo_info": {
             "archived": false,
             "language": "Crystal",
-            "last_commit": "2026-08-13T14:17:06Z",
+            "last_commit": "2026-08-13T19:09:29Z",
             "owner": "elbywan",
             "repo": "crystalline",
             "stars": 518
@@ -5618,7 +5618,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T15:58:05.054Z",
+    "last_updated": "2026-08-14T15:49:57.174Z",
     "original_repository": "veelenga/awesome-crystal",
     "original_repository_sha": "3631c21a25880fd2f3e886bbc8577cc1abf6377f",
     "enhanced_repository": "enhansome/enhansome-crystal",
