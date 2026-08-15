@@ -827,20 +827,6 @@
         },
         {
           "node_type": "item",
-          "title": "clicr",
-          "description": "A simple declarative command line interface builder",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Crystal",
-            "last_commit": "2020-10-28T21:41:04Z",
-            "owner": "j8r",
-            "repo": "clicr",
-            "stars": 32
-          }
-        },
-        {
-          "node_type": "item",
           "title": "Cling",
           "description": "A modular, non-macro-based command line interface library",
           "children": [],
@@ -850,6 +836,20 @@
             "last_commit": "2025-08-04T17:33:12Z",
             "owner": "devnote-dev",
             "repo": "cling",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "clicr",
+          "description": "A simple declarative command line interface builder",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2020-10-28T21:41:04Z",
+            "owner": "j8r",
+            "repo": "clicr",
             "stars": 32
           }
         },
@@ -1058,7 +1058,7 @@
             "last_commit": "2026-08-12T23:53:30Z",
             "owner": "crystal-ameba",
             "repo": "ameba",
-            "stars": 562
+            "stars": 561
           }
         },
         {
@@ -2037,7 +2037,7 @@
           "repo_info": {
             "archived": false,
             "language": "Crystal",
-            "last_commit": "2026-08-01T21:21:05Z",
+            "last_commit": "2026-08-15T13:55:34Z",
             "owner": "exercism",
             "repo": "crystal",
             "stars": 79
@@ -2858,7 +2858,7 @@
             "last_commit": "2026-08-04T03:22:28Z",
             "owner": "mint-lang",
             "repo": "mint",
-            "stars": 4263
+            "stars": 4262
           }
         },
         {
@@ -3196,7 +3196,7 @@
             "last_commit": "2026-08-09T00:40:55Z",
             "owner": "isaced",
             "repo": "crystal-web-framework-stars",
-            "stars": 75
+            "stars": 76
           }
         },
         {
@@ -4331,10 +4331,10 @@
           "repo_info": {
             "archived": false,
             "language": "Crystal",
-            "last_commit": "2026-08-13T14:40:02Z",
+            "last_commit": "2026-08-15T15:18:04Z",
             "owner": "owasp-noir",
             "repo": "noir",
-            "stars": 1370
+            "stars": 1373
           }
         },
         {
@@ -5163,10 +5163,10 @@
           "repo_info": {
             "archived": false,
             "language": "Crystal",
-            "last_commit": "2026-08-14T13:56:59Z",
+            "last_commit": "2026-08-15T15:14:44Z",
             "owner": "kemalcr",
             "repo": "kemal",
-            "stars": 3905
+            "stars": 3904
           }
         },
         {
@@ -5233,7 +5233,7 @@
           "repo_info": {
             "archived": false,
             "language": "Crystal",
-            "last_commit": "2026-08-14T13:12:34Z",
+            "last_commit": "2026-08-15T03:06:27Z",
             "owner": "athena-framework",
             "repo": "athena",
             "stars": 236
@@ -5618,7 +5618,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T15:49:57.174Z",
+    "last_updated": "2026-08-15T15:18:13.902Z",
     "original_repository": "veelenga/awesome-crystal",
     "original_repository_sha": "3631c21a25880fd2f3e886bbc8577cc1abf6377f",
     "enhanced_repository": "enhansome/enhansome-crystal",
