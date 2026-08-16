@@ -1,4 +1,4 @@
-[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md) ⭐ 1,545 | 🐛 31 | 🌐 JavaScript | 📅 2026-08-05
+[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md) ⭐ 1,545 | 🐛 32 | 🌐 JavaScript | 📅 2026-08-05
 
 <p align="center"><img src="logo/logotype_horizontal.jpg" alt="awesome-crystal"></p>
 
@@ -6,7 +6,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome Crystal code and resources. Inspired by [awesome](https://github.com/sindresorhus/awesome) ⭐ 496,012 | 🐛 100 | 📅 2026-06-30 and [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,608 | 🐛 60 | 🌐 Ruby | 📅 2024-06-02.
+A curated list of awesome Crystal code and resources. Inspired by [awesome](https://github.com/sindresorhus/awesome) ⭐ 496,415 | 🐛 100 | 📅 2026-06-30 and [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,610 | 🐛 60 | 🌐 Ruby | 📅 2024-06-02.
 The goal is to have projects mostly stable and useful for the community.
 
 Search shards at [shards.info](https://shards.info) for more.
@@ -117,7 +117,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## C bindings
 
-* [duktape.cr](https://github.com/jessedoyle/duktape.cr) ⭐ 141 | 🐛 6 | 🌐 Crystal | 📅 2023-07-10 - Bindings for the [Duktape](https://github.com/svaarala/duktape) ⭐ 6,209 | 🐛 474 | 🌐 JavaScript | 📅 2024-03-22 javascript engine
+* [duktape.cr](https://github.com/jessedoyle/duktape.cr) ⭐ 141 | 🐛 6 | 🌐 Crystal | 📅 2023-07-10 - Bindings for the [Duktape](https://github.com/svaarala/duktape) ⭐ 6,210 | 🐛 474 | 🌐 JavaScript | 📅 2024-03-22 javascript engine
 * [wasmer-crystal](https://github.com/naqvis/wasmer-crystal) ⭐ 103 | 🐛 0 | 🌐 Crystal | 📅 2026-05-18 - Bindings for the `wasmer` WebAssembly runtime
 * [clang.cr](https://github.com/crystal-lang/clang.cr) ⭐ 52 | 🐛 2 | 🌐 Crystal | 📅 2026-07-02 - Libclang bindings
 * [ssh2.cr](https://github.com/spider-gazelle/ssh2.cr) ⭐ 51 | 🐛 1 | 🌐 Crystal | 📅 2026-07-20 - Bindings for libssh2 library
@@ -158,8 +158,8 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## CLI Utils
 
-* [hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) ⭐ 3,661 | 🐛 34 | 🌐 Crystal | 📅 2026-06-24 - A CLI tool to quickly create and manage Kubernetes clusters in Hetzner Cloud
-* [oq](https://github.com/Blacksmoke16/oq) ⭐ 208 | 🐛 13 | 🌐 Crystal | 📅 2026-07-16 - A performant, and portable jq wrapper to facilitate the consumption and output of formats other than JSON; using [jq](https://github.com/stedolan/jq) ⭐ 35,453 | 🐛 472 | 🌐 C | 📅 2026-08-12 filters to transform the data
+* [hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) ⭐ 3,662 | 🐛 34 | 🌐 Crystal | 📅 2026-06-24 - A CLI tool to quickly create and manage Kubernetes clusters in Hetzner Cloud
+* [oq](https://github.com/Blacksmoke16/oq) ⭐ 208 | 🐛 13 | 🌐 Crystal | 📅 2026-07-16 - A performant, and portable jq wrapper to facilitate the consumption and output of formats other than JSON; using [jq](https://github.com/stedolan/jq) ⭐ 35,458 | 🐛 473 | 🌐 C | 📅 2026-08-12 filters to transform the data
 * [tallboy](https://github.com/epoch/tallboy) ⭐ 63 | 🐛 2 | 🌐 Crystal | 📅 2021-04-27 - Generate ASCII character tables with support for spanning cells over multiple columns
 * [cride](https://github.com/j8r/cride) ⭐ 53 | 🐛 1 | 🌐 Crystal | 📅 2021-05-08 - A light CLI text editor/IDE
 * [meet](https://github.com/ryanprior/meet) ⭐ 41 | 🐛 0 | 🌐 Crystal | 📅 2023-03-25 - Start a jitsi meeting quickly from the comfort of your command line
@@ -179,7 +179,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Compression
 
 * [Crystar](https://github.com/naqvis/crystar) ⭐ 47 | 🐛 1 | 🌐 Crystal | 📅 2024-06-20 - Readers and writers of Tar archive format
-* [zstd.cr](https://github.com/didactic-drunk/zstd.cr) ⭐ 45 | 🐛 1 | 🌐 Crystal | 📅 2024-05-14 - Bindings for [Zstandard](https://github.com/facebook/zstd) ⭐ 27,555 | 🐛 338 | 🌐 C | 📅 2026-08-01 compression library
+* [zstd.cr](https://github.com/didactic-drunk/zstd.cr) ⭐ 45 | 🐛 1 | 🌐 Crystal | 📅 2024-05-14 - Bindings for [Zstandard](https://github.com/facebook/zstd) ⭐ 27,560 | 🐛 339 | 🌐 C | 📅 2026-08-01 compression library
 * [snappy](https://github.com/naqvis/snappy) ⭐ 22 | 🐛 0 | 🌐 Crystal | 📅 2021-03-25 -  Snappy compression format reader/writer for Crystal
 * [polylines.cr](https://github.com/BuonOmo/polylines.cr) ⭐ 10 | 🐛 0 | 🌐 Crystal | 📅 2021-06-17 — compression of series of coordinates
 * [Gzip](https://crystal-lang.org/api/Compress/Gzip.html) - readers and writers of gzip format (Crystal stdlib)
@@ -302,8 +302,8 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 * [Exception Page](https://github.com/crystal-loot/exception_page) ⭐ 72 | 🐛 1 | 🌐 HTML | 📅 2025-03-15 - An exceptional exception page for Crystal web libraries and frameworks
 * [kemal-session](https://github.com/kemalcr/kemal-session) ⭐ 65 | 🐛 2 | 🌐 Crystal | 📅 2026-06-02 - Session handler for Kemal
 * [praetorian](https://github.com/ilanusse/praetorian) ⭐ 61 | 🐛 1 | 🌐 Crystal | 📅 2022-01-18 - Minimalist authorization library inspired by Pundit
-* [Shield](https://github.com/grottopress/shield) ⭐ 57 | 🐛 5 | 🌐 Crystal | 📅 2026-08-09 - Comprehensive security for *Lucky* framework
-* [motion.cr](https://github.com/awcrotwell/motion.cr) ⭐ 53 | 🐛 2 | 🌐 Crystal | 📅 2021-04-10 - Object oriented frontend library for Amber
+* [Shield](https://github.com/grottopress/shield) ⭐ 57 | 🐛 5 | 🌐 Crystal | 📅 2026-08-15 - Comprehensive security for *Lucky* framework
+* [motion.cr](https://github.com/awcrotwell/motion.cr) ⭐ 54 | 🐛 2 | 🌐 Crystal | 📅 2021-04-10 - Object oriented frontend library for Amber
 * [mochi](https://github.com/awcrotwell/mochi) ⭐ 26 | 🐛 2 | 🌐 Crystal | 📅 2020-11-19 - Authentication shard inspired by Devise supporting: Authenticable, Confirmable, Invitable & more
 * [device\_detector](https://github.com/creadone/device_detector) ⭐ 24 | 🐛 0 | 🌐 Crystal | 📅 2026-08-06 - Shard for detect device by user agent string
 * [Athena Event Dispatcher](https://github.com/athena-framework/event-dispatcher) ⭐ 15 | 🐛 0 | 🌐 Crystal | 📅 2026-05-03 - A Mediator and Observer pattern event library
@@ -317,23 +317,23 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 * [crystal-chipmunk](https://github.com/oprypin/crystal-chipmunk) ⭐ 45 | 🐛 0 | 🌐 Crystal | 📅 2025-10-26 - Bindings to [Chipmunk](http://chipmunk-physics.net/), a fast and lightweight 2D game physics library
 * [entitas.cr](https://github.com/spoved/entitas.cr) ⭐ 38 | 🐛 0 | 🌐 Crystal | 📅 2024-12-16 - A Entity Component System Framework for Crystal
 * [MyECS](https://github.com/konovod/myecs) ⭐ 21 | 🐛 0 | 🌐 Crystal | 📅 2024-02-16 - A Sparse Entity Component System Framework for Crystal
-* [crystal-imgui-sfml](https://github.com/oprypin/crystal-imgui-sfml) ⭐ 18 | 🐛 1 | 🌐 Crystal | 📅 2025-11-23 - Bindings to integrate [Dear ImGui](https://github.com/ocornut/imgui) ⭐ 75,666 | 🐛 1,231 | 🌐 C++ | 📅 2026-08-07 into an [SFML](https://www.sfml-dev.org/) project
+* [crystal-imgui-sfml](https://github.com/oprypin/crystal-imgui-sfml) ⭐ 18 | 🐛 1 | 🌐 Crystal | 📅 2025-11-23 - Bindings to integrate [Dear ImGui](https://github.com/ocornut/imgui) ⭐ 75,673 | 🐛 1,232 | 🌐 C++ | 📅 2026-08-07 into an [SFML](https://www.sfml-dev.org/) project
 * [SDL-Crystal-Bindings](https://github.com/Hadeweka/SDL-Crystal-Bindings) ⭐ 16 | 🐛 0 | 🌐 Crystal | 📅 2026-08-13 - Direct (unsafe) bindings to [SDL2](https://www.libsdl.org/), intended for writing own game libraries
 
 ## GUI Development
 
 * [GTK4.cr](https://github.com/hugopl/gtk4.cr) ⭐ 126 | 🐛 10 | 🌐 Crystal | 📅 2025-09-05 - Bindings for [GTK4](https://docs.gtk.org/gtk4/overview.html) with Crystalized API
-* [crystal-imgui](https://github.com/oprypin/crystal-imgui) ⭐ 77 | 🐛 0 | 🌐 Crystal | 📅 2025-11-23 - Bindings to [Dear ImGui](https://github.com/ocornut/imgui) ⭐ 75,666 | 🐛 1,231 | 🌐 C++ | 📅 2026-08-07, an immediate-mode graphical UI library
+* [crystal-imgui](https://github.com/oprypin/crystal-imgui) ⭐ 77 | 🐛 0 | 🌐 Crystal | 📅 2025-11-23 - Bindings to [Dear ImGui](https://github.com/ocornut/imgui) ⭐ 75,673 | 🐛 1,232 | 🌐 C++ | 📅 2026-08-07, an immediate-mode graphical UI library
 * [Iu](https://github.com/grkek/iu) ⭐ 77 | 🐛 1 | 🌐 Crystal | 📅 2024-02-19 - UI framework based on the [Fusion/libui.cr](https://github.com/Fusion/libui.cr) ⭐ 182 | 🐛 5 | 🌐 Crystal | 📅 2020-04-19 library, with custom elements and modified bindings from [hedron-crystal/hedron](https://github.com/hedron-crystal/hedron) ⚠️ Archived
 * [CrymbleUI](https://github.com/wolfgang371/crymbleui) ⭐ 45 | 🐛 1 | 🌐 Crystal | 📅 2026-08-09 - A nice and fast GUI framework for Crystal. Declarative DSL, Reactive State, Performant, Rich Widget Set including VirtualMatrix and RecursiveGrid
 * [Ultimate GTK4 Crystal Guide](https://ultimate-gtk4-crystal-guide.geopjr.dev/) - Learn how to create premium GTK4 apps in Crystal
 
 ## HTML Builders
 
-* [blueprint](https://github.com/gunbolt/blueprint) ⭐ 84 | 🐛 0 | 🌐 Crystal | 📅 2026-01-05 - Write reusable and testable HTML templates in plain Crystal
+* [blueprint](https://github.com/gunbolt/blueprint) ⭐ 85 | 🐛 0 | 🌐 Crystal | 📅 2026-01-05 - Write reusable and testable HTML templates in plain Crystal
 * [form\_builder.cr](https://github.com/westonganger/form_builder.cr) ⭐ 33 | 🐛 1 | 🌐 Crystal | 📅 2025-01-18 - Dead simple HTML form builder for Crystal with built-in support for many popular UI libraries such as Bootstrap
-* [Water](https://github.com/shootingfly/water) ⭐ 31 | 🐛 0 | 🌐 Crystal | 📅 2025-01-14 - A library for writing HTML in plain Crystal
-* [to\_html](https://github.com/sbsoftware/to_html.cr) ⭐ 20 | 🐛 0 | 🌐 Crystal | 📅 2026-03-04 - The fastest HTML builder engine for Crystal
+* [Water](https://github.com/shootingfly/water) ⭐ 32 | 🐛 0 | 🌐 Crystal | 📅 2025-01-14 - A library for writing HTML in plain Crystal
+* [to\_html](https://github.com/sbsoftware/to_html.cr) ⭐ 21 | 🐛 0 | 🌐 Crystal | 📅 2026-03-04 - The fastest HTML builder engine for Crystal
 
 ## HTML/XML Parsing
 
@@ -348,7 +348,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 * [Cable](https://github.com/cable-cr/cable) ⭐ 136 | 🐛 18 | 🌐 Crystal | 📅 2026-05-07 - An ActionCable "port" to Crystal, framework agnostic, 100% compatible with the ActionCable JS Client
 * [crul](https://github.com/porras/crul) ⚠️ Archived - Command line HTTP client
 * [cossack](https://github.com/crystal-community/cossack) ⭐ 110 | 🐛 9 | 🌐 Crystal | 📅 2020-07-08 - Simple flexible HTTP client
-* [http2](https://github.com/ysbaddaden/http2) ⭐ 107 | 🐛 12 | 🌐 Crystal | 📅 2026-08-12 - HTTP/2 Protocol Implementation
+* [http2](https://github.com/ysbaddaden/http2) ⭐ 107 | 🐛 8 | 🌐 Crystal | 📅 2026-08-16 - HTTP/2 Protocol Implementation
 * [http-protection](https://github.com/rogeriozambon/http-protection) ⭐ 75 | 🐛 0 | 🌐 Crystal | 📅 2023-06-17 - Protection against typical web attacks
 * [sse.cr](https://github.com/y2k2mt/sse.cr) ⭐ 26 | 🐛 0 | 🌐 Crystal | 📅 2026-04-26 - [Server-Sent Events](https://html.spec.whatwg.org/multipage/server-sent-events.html) client
 * [http-multiserver.cr](https://github.com/vladfaust/http-multiserver.cr) ⚠️ Archived - Mounting multiple servers via routes (a.k.a. URL mapping)
@@ -374,7 +374,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 * [cltk](https://github.com/ziprandom/cltk) ⭐ 72 | 🐛 6 | 🌐 Crystal | 📅 2023-04-02 - A crystal port of the Ruby Language Toolkit
 * [crisp](https://github.com/rhysd/Crisp) ⭐ 47 | 🐛 0 | 🌐 Crystal | 📅 2023-03-15 - Lisp dialect implemented with Crystal
 * [novika](https://github.com/novika-lang/novika) ⚠️ Archived - A free-form, moldable, interpreted programming language
-* [GiavaScript](https://github.com/memburg/GiavaScript) ⭐ 6 | 🐛 7 | 🌐 Crystal | 📅 2026-08-12 - Open-source, cross-platform JavaScript runtime
+* [GiavaScript](https://github.com/memburg/GiavaScript) ⭐ 6 | 🐛 6 | 🌐 Crystal | 📅 2026-08-16 - Open-source, cross-platform JavaScript runtime
 * [charly](https://github.com/charly-lang) - Charly Programming Language
 * [LinCAS-lang](https://github.com/LinCAS-lang) - A programming language for scientific computation
 * [myst-lang](https://github.com/myst-lang/) - A practical, dynamic language designed to be written and understood as easily and efficiently as possible
@@ -412,7 +412,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 * [immutable](https://github.com/lucaong/immutable) ⭐ 203 | 🐛 4 | 🌐 Crystal | 📅 2021-06-04 - Implementation of thread-safe, persistent, immutable collections
 * [anyolite](https://github.com/Anyolite/anyolite) ⭐ 179 | 🐛 2 | 🌐 Crystal | 📅 2026-06-02 - Full mruby interpreter with simple bindings, allowing for easy scripting support in projects
 * [crz](https://github.com/dhruvrajvanshi/crz) ⭐ 94 | 🐛 3 | 🌐 Crystal | 📅 2021-05-14 - Functional programming library
-* [crystal-web-framework-stars](https://github.com/isaced/crystal-web-framework-stars) ⭐ 76 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-09 - Web frameworks for Crystal, most starred on Github
+* [crystal-web-framework-stars](https://github.com/isaced/crystal-web-framework-stars) ⭐ 76 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-16 - Web frameworks for Crystal, most starred on Github
 * [lua.cr](https://github.com/veelenga/lua.cr) ⭐ 70 | 🐛 0 | 🌐 Crystal | 📅 2026-08-09 - Bindings to liblua and a wrapper around it
 * [aasm.cr](https://github.com/veelenga/aasm.cr) ⭐ 55 | 🐛 3 | 🌐 Crystal | 📅 2025-11-20 - Easy to use finite state machine for Crystal classes
 * [emoji.cr](https://github.com/veelenga/emoji.cr) ⭐ 53 | 🐛 1 | 🌐 Crystal | 📅 2023-09-21 - Emoji library
@@ -503,7 +503,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Queues and Messaging
 
 * [sidekiq.cr](https://github.com/mperham/sidekiq.cr) ⭐ 779 | 🐛 4 | 🌐 Crystal | 📅 2026-07-31 - Simple, efficient job processing
-* [mosquito](https://github.com/mosquito-cr/mosquito/) ⭐ 244 | 🐛 22 | 🌐 Crystal | 📅 2026-07-29 - Redis backed periodic and ad hoc job processing
+* [mosquito](https://github.com/mosquito-cr/mosquito/) ⭐ 244 | 🐛 23 | 🌐 Crystal | 📅 2026-07-29 - Redis backed periodic and ad hoc job processing
 * [NATS.io](https://github.com/nats-io/nats.cr) ⭐ 47 | 🐛 6 | 🌐 Crystal | 📅 2022-01-07 - NATS client
 * [crafka](https://github.com/BT-OpenSource/crafka) ⭐ 20 | 🐛 1 | 🌐 Crystal | 📅 2025-06-26 - Apache Kafka library utilizing `librdkafka`
 
@@ -533,7 +533,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Security
 
-* [OWASP Noir](https://github.com/owasp-noir/noir) ⭐ 1,373 | 🐛 25 | 🌐 Crystal | 📅 2026-08-15 - Attack surface detector that identifies endpoints by static analysis
+* [OWASP Noir](https://github.com/owasp-noir/noir) ⭐ 1,373 | 🐛 7 | 🌐 Crystal | 📅 2026-08-16 - Attack surface detector that identifies endpoints by static analysis
 * [XSSMaze](https://github.com/hahwul/xssmaze) ⭐ 37 | 🐛 0 | 🌐 Crystal | 📅 2026-08-02 - XSSMaze is a web service that tests security tools using diverse XSS cases
 * [cyclonedx-cr](https://github.com/hahwul/cyclonedx-cr) ⭐ 6 | 🐛 4 | 🌐 Crystal | 📅 2026-07-30 - CycloneDX SBOM(Software Bill of Materials) generator for Crystal projects
 
@@ -554,11 +554,11 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Template Engine
 
-* [Slang](https://github.com/jeromegn/slang) ⭐ 236 | 🐛 22 | 🌐 Crystal | 📅 2026-05-09 - Lightweight, terse, templating language inspired by Ruby's Slim
-* [Kilt](https://github.com/jeromegn/kilt) ⭐ 152 | 🐛 4 | 🌐 Crystal | 📅 2022-06-01 - Abstraction layer for template engines
+* [Slang](https://github.com/jeromegn/slang) ⭐ 237 | 🐛 22 | 🌐 Crystal | 📅 2026-05-09 - Lightweight, terse, templating language inspired by Ruby's Slim
+* [Kilt](https://github.com/jeromegn/kilt) ⭐ 153 | 🐛 4 | 🌐 Crystal | 📅 2022-06-01 - Abstraction layer for template engines
 * [crinja](https://github.com/straight-shoota/crinja) ⭐ 145 | 🐛 10 | 🌐 Crystal | 📅 2026-07-21 - An implementation of the [Jinja2 template engine](http://jinja.pocoo.org/)
 * [crustache](https://github.com/MakeNowJust/crustache) ⭐ 88 | 🐛 3 | 🌐 Crystal | 📅 2024-03-13 - [{{Mustache}}](https://mustache.github.io) for Crystal
-* [Jbuilder](https://github.com/shootingfly/jbuilder) ⭐ 44 | 🐛 0 | 🌐 Crystal | 📅 2025-01-14 - Generate JSON objects with a Builder-style DSL, inspired by jbuilder
+* [Jbuilder](https://github.com/shootingfly/jbuilder) ⭐ 45 | 🐛 0 | 🌐 Crystal | 📅 2025-01-14 - Generate JSON objects with a Builder-style DSL, inspired by jbuilder
 * [teeplate](https://github.com/mosop/teeplate) ⭐ 17 | 🐛 5 | 🌐 Crystal | 📅 2021-07-01 - A library for rendering multiple template files
 * [ECR (Embedded Crystal)](https://crystal-lang.org/api/ECR.html) - compile time template language which uses plain crystal expressions (Crystal stdlib)
 
@@ -583,7 +583,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Third-party APIs
 
-* [raven.cr](https://github.com/sija/raven.cr) ⭐ 133 | 🐛 5 | 🌐 Crystal | 📅 2026-07-06 - Raven is a client for [Sentry](https://github.com/getsentry/sentry) ⭐ 44,553 | 🐛 2,194 | 🌐 Python | 📅 2026-08-15
+* [raven.cr](https://github.com/sija/raven.cr) ⭐ 133 | 🐛 5 | 🌐 Crystal | 📅 2026-07-06 - Raven is a client for [Sentry](https://github.com/getsentry/sentry) ⭐ 44,558 | 🐛 2,196 | 🌐 Python | 📅 2026-08-16
 * [awscr-s3](https://github.com/taylorfinnell/awscr-s3) ⭐ 91 | 🐛 11 | 🌐 Crystal | 📅 2026-08-11 - AWS S3 interface
 * [twitter-crystal](https://github.com/sferik/twitter-crystal) ⭐ 82 | 🐛 3 | 🌐 Crystal | 📅 2020-09-03 - A library to access the Twitter API
 * [stripe.cr](https://github.com/confact/stripe.cr) ⭐ 51 | 🐛 6 | 🌐 Crystal | 📅 2025-12-12 - Stripe api wrapper
@@ -620,12 +620,12 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Web Frameworks
 
-* [kemal](https://github.com/kemalcr/kemal) ⭐ 3,904 | 🐛 3 | 🌐 Crystal | 📅 2026-08-15 - Lightning Fast, Super Simple web framework. Inspired by Sinatra
+* [kemal](https://github.com/kemalcr/kemal) ⭐ 3,905 | 🐛 3 | 🌐 Crystal | 📅 2026-08-16 - Lightning Fast, Super Simple web framework. Inspired by Sinatra
 * [lucky](https://github.com/luckyframework/lucky) ⭐ 2,725 | 🐛 93 | 🌐 Crystal | 📅 2026-08-13 - Catch bugs early, forget about most performance issues, and spend more time on code instead of debugging and writing tests
 * [amber](https://github.com/amberframework/amber) ⭐ 2,602 | 🐛 38 | 🌐 Crystal | 📅 2026-08-13 - Open source efficient and cohesive web application framework
 * [marten](https://github.com/martenframework/marten) ⭐ 476 | 🐛 19 | 🌐 Crystal | 📅 2026-08-14 - A web framework that makes building web applications easy, productive, and fun
 * [grip](https://github.com/grip-framework/grip) ⭐ 292 | 🐛 0 | 🌐 Crystal | 📅 2026-08-12 - The microframework for writing powerful web applications
-* [Athena](https://github.com/athena-framework/athena) ⭐ 236 | 🐛 12 | 🌐 Crystal | 📅 2026-08-15 - A web framework comprised of reusable, independent components
+* [Athena](https://github.com/athena-framework/athena) ⭐ 236 | 🐛 11 | 🌐 Crystal | 📅 2026-08-15 - A web framework comprised of reusable, independent components
 * [spider-gazelle](https://github.com/spider-gazelle/spider-gazelle) ⭐ 191 | 🐛 2 | 🌐 Crystal | 📅 2026-08-13 - A Rails esque web framework with a focus on speed and extensibility
 * [runcobo](https://github.com/runcobo/runcobo) ⭐ 52 | 🐛 0 | 🌐 Crystal | 📅 2025-01-14 - An api framework with simple, intuitive and consistent DSL, using jbuilder to render json
 * [Shivneri](https://github.com/ujjwalguptaofficial/shivneri) ⭐ 23 | 🐛 1 | 🌐 Crystal | 📅 2021-05-06 - Component based MVC web framework for crystal targeting good code structures, modularity & performance
@@ -647,7 +647,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 # Resources
 
-* [Crystal Shards for Ruby Gems](https://github.com/crystal-lang/crystal/wiki/Crystal-Shards-for-Ruby-Gems) ⭐ 20,372 | 🐛 2,030 | 🌐 Crystal | 📅 2026-08-14 - A list of Ruby Gems and their Crystal Shards equivalents
+* [Crystal Shards for Ruby Gems](https://github.com/crystal-lang/crystal/wiki/Crystal-Shards-for-Ruby-Gems) ⭐ 20,372 | 🐛 2,032 | 🌐 Crystal | 📅 2026-08-14 - A list of Ruby Gems and their Crystal Shards equivalents
 * [crystal-koans](https://github.com/ilmanzo/crystal-koans) ⭐ 56 | 🐛 2 | 🌐 Crystal | 📅 2024-11-09 - Learn Crystal by writing unit tests
 * [Crystal for Rubyists](http://www.crystalforrubyists.com/) - Free book to bootstrap your Crystal journey
 * [crystal-lang.org](https://crystal-lang.org) - Official language site
@@ -666,10 +666,10 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 # Services and Apps
 
-* [Invidious](https://github.com/iv-org/invidious) ⭐ 22,657 | 🐛 475 | 🌐 Crystal | 📅 2026-08-15 - Invidious is an alternative front-end to YouTube
+* [Invidious](https://github.com/iv-org/invidious) ⭐ 22,672 | 🐛 474 | 🌐 Crystal | 📅 2026-08-15 - Invidious is an alternative front-end to YouTube
 * [icr](https://github.com/crystal-community/icr) ⭐ 506 | 🐛 13 | 🌐 Crystal | 📅 2021-09-26 - Interactive console for Crystal (like IRB for Ruby)
 * [Crank](https://github.com/arktisklada/crank) ⭐ 52 | 🐛 1 | 🌐 Crystal | 📅 2020-07-06 - A Procfile-based application manager (like Foreman)
-* [shards.info](http://shards.info/) - Web service that lists all repositories on GitHub that have Crystal code in them. The sources are available on [GitHub](https://github.com/mamantoha/shards-info) ⭐ 46 | 🐛 2 | 🌐 Crystal | 📅 2026-08-12
+* [shards.info](http://shards.info/) - Web service that lists all repositories on GitHub that have Crystal code in them. The sources are available on [GitHub](https://github.com/mamantoha/shards-info) ⭐ 47 | 🐛 2 | 🌐 Crystal | 📅 2026-08-12
 * [DeBot](https://github.com/jhass/DeBot) ⭐ 36 | 🐛 1 | 🌐 Crystal | 📅 2021-05-23 - IRC bot written in Crystal
 * [mpngin](https://github.com/thewalkingtoast/mpngin) ⭐ 36 | 🐛 0 | 🌐 Crystal | 📅 2025-09-09 - A URL shortener with simple stats
 * [cry](https://github.com/elorest/cry) ⭐ 34 | 🐛 1 | 🌐 Crystal | 📅 2021-10-30 - Ability to execute crystal code in a fashion similar to Ruby's pry edit
@@ -729,4 +729,4 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
