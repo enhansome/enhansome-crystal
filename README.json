@@ -764,6 +764,21 @@
             "repo": "nlopt.cr",
             "stars": 3
           }
+        },
+        {
+          "node_type": "item",
+          "title": "wgpu-cr",
+          "description": "Bindings for wgpu-native (WebGPU)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1339500633,
+            "language": "Crystal",
+            "last_commit": "2026-08-19T12:12:09Z",
+            "owner": "raj",
+            "repo": "wgpu-cr",
+            "stars": 1
+          }
         }
       ],
       "title": "C bindings"
@@ -960,7 +975,7 @@
             "last_commit": "2026-06-24T12:27:23Z",
             "owner": "vitobotta",
             "repo": "hetzner-k3s",
-            "stars": 3662
+            "stars": 3663
           }
         },
         {
@@ -3048,7 +3063,7 @@
             "archived": false,
             "id": 125516114,
             "language": "Crystal",
-            "last_commit": "2026-08-19T12:08:32Z",
+            "last_commit": "2026-08-19T14:28:35Z",
             "owner": "mint-lang",
             "repo": "mint",
             "stars": 4262
@@ -4206,7 +4221,7 @@
             "archived": false,
             "id": 168843741,
             "language": "Crystal",
-            "last_commit": "2026-08-19T11:54:37Z",
+            "last_commit": "2026-08-19T14:20:20Z",
             "owner": "luckyframework",
             "repo": "avram",
             "stars": 183
@@ -4638,7 +4653,7 @@
             "archived": false,
             "id": 466473918,
             "language": "Crystal",
-            "last_commit": "2026-08-18T15:54:03Z",
+            "last_commit": "2026-08-19T13:48:48Z",
             "owner": "owasp-noir",
             "repo": "noir",
             "stars": 1373
@@ -5667,7 +5682,7 @@
             "archived": false,
             "id": 6887813,
             "language": "Crystal",
-            "last_commit": "2026-08-19T09:15:58Z",
+            "last_commit": "2026-08-19T14:45:06Z",
             "owner": "crystal-lang",
             "repo": "crystal",
             "stars": 20378
@@ -6268,10 +6283,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:21:31.327Z",
+    "last_updated": "2026-08-19T15:29:31.978Z",
     "original_repository": "veelenga/awesome-crystal",
     "original_repository_id": 37688007,
-    "original_repository_sha": "6b3a9589e3bf10fa9804945f446033132e0135d6",
+    "original_repository_sha": "47af206ce5e1d168549fed8ad878a0bf815be2cb",
     "enhanced_repository": "enhansome/enhansome-crystal",
     "enhanced_repository_description": null,
     "title": "Awesome Crystal with stars"
