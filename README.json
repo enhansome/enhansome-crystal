@@ -3423,7 +3423,7 @@
             "archived": false,
             "id": 170256673,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T00:28:35Z",
+            "last_commit": "2026-08-23T00:29:54Z",
             "owner": "isaced",
             "repo": "crystal-web-framework-stars",
             "stars": 76
@@ -4653,7 +4653,7 @@
             "archived": false,
             "id": 466473918,
             "language": "Crystal",
-            "last_commit": "2026-08-22T15:06:45Z",
+            "last_commit": "2026-08-23T01:15:22Z",
             "owner": "owasp-noir",
             "repo": "noir",
             "stars": 1378
@@ -5586,7 +5586,7 @@
             "archived": false,
             "id": 242279238,
             "language": "Crystal",
-            "last_commit": "2026-08-21T10:28:20Z",
+            "last_commit": "2026-08-23T10:39:31Z",
             "owner": "martenframework",
             "repo": "marten",
             "stars": 477
@@ -5682,7 +5682,7 @@
             "archived": false,
             "id": 6887813,
             "language": "Crystal",
-            "last_commit": "2026-08-21T10:08:19Z",
+            "last_commit": "2026-08-23T09:54:48Z",
             "owner": "crystal-lang",
             "repo": "crystal",
             "stars": 20381
@@ -5721,7 +5721,7 @@
             "last_commit": "2026-08-22T02:12:45Z",
             "owner": "iv-org",
             "repo": "invidious",
-            "stars": 22724
+            "stars": 22739
           }
         },
         {
@@ -6283,7 +6283,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T15:18:29.149Z",
+    "last_updated": "2026-08-23T15:20:40.773Z",
     "original_repository": "veelenga/awesome-crystal",
     "original_repository_id": 37688007,
     "original_repository_sha": "47af206ce5e1d168549fed8ad878a0bf815be2cb",
