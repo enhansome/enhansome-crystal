@@ -975,7 +975,7 @@
             "last_commit": "2026-06-24T12:27:23Z",
             "owner": "vitobotta",
             "repo": "hetzner-k3s",
-            "stars": 3664
+            "stars": 3666
           }
         },
         {
@@ -990,7 +990,7 @@
             "last_commit": "2026-08-18T00:51:25Z",
             "owner": "Blacksmoke16",
             "repo": "oq",
-            "stars": 208
+            "stars": 209
           }
         },
         {
@@ -1698,7 +1698,7 @@
             "archived": false,
             "id": 1086607951,
             "language": "Crystal",
-            "last_commit": "2026-08-06T03:20:24Z",
+            "last_commit": "2026-08-24T01:46:21Z",
             "owner": "mamantoha",
             "repo": "toon-crystal",
             "stars": 11
@@ -1893,7 +1893,7 @@
             "last_commit": "2022-05-05T03:27:14Z",
             "owner": "kingsleyh",
             "repo": "crystal-rethinkdb",
-            "stars": 22
+            "stars": 23
           }
         },
         {
@@ -2349,7 +2349,7 @@
             "last_commit": "2026-06-02T07:33:06Z",
             "owner": "kemalcr",
             "repo": "kemal-session",
-            "stars": 65
+            "stars": 66
           }
         },
         {
@@ -4422,7 +4422,7 @@
             "last_commit": "2026-07-31T20:26:27Z",
             "owner": "hugopl",
             "repo": "sidekiq.cr",
-            "stars": 779
+            "stars": 780
           }
         },
         {
@@ -4656,7 +4656,7 @@
             "last_commit": "2026-08-23T01:15:22Z",
             "owner": "owasp-noir",
             "repo": "noir",
-            "stars": 1378
+            "stars": 1379
           }
         },
         {
@@ -5541,7 +5541,7 @@
             "archived": false,
             "id": 44826364,
             "language": "Crystal",
-            "last_commit": "2026-08-22T03:43:34Z",
+            "last_commit": "2026-08-24T11:32:33Z",
             "owner": "kemalcr",
             "repo": "kemal",
             "stars": 3905
@@ -5574,7 +5574,7 @@
             "last_commit": "2026-08-13T17:04:24Z",
             "owner": "amberframework",
             "repo": "amber",
-            "stars": 2604
+            "stars": 2603
           }
         },
         {
@@ -5586,7 +5586,7 @@
             "archived": false,
             "id": 242279238,
             "language": "Crystal",
-            "last_commit": "2026-08-23T10:39:31Z",
+            "last_commit": "2026-08-24T08:45:30Z",
             "owner": "martenframework",
             "repo": "marten",
             "stars": 477
@@ -5682,7 +5682,7 @@
             "archived": false,
             "id": 6887813,
             "language": "Crystal",
-            "last_commit": "2026-08-23T09:54:48Z",
+            "last_commit": "2026-08-23T20:52:21Z",
             "owner": "crystal-lang",
             "repo": "crystal",
             "stars": 20381
@@ -5718,10 +5718,10 @@
             "archived": false,
             "id": 120542434,
             "language": "Crystal",
-            "last_commit": "2026-08-22T02:12:45Z",
+            "last_commit": "2026-08-23T20:33:36Z",
             "owner": "iv-org",
             "repo": "invidious",
-            "stars": 22739
+            "stars": 22749
           }
         },
         {
@@ -5763,7 +5763,7 @@
             "archived": false,
             "id": 125723112,
             "language": "Crystal",
-            "last_commit": "2026-08-12T08:52:44Z",
+            "last_commit": "2026-08-24T10:03:28Z",
             "owner": "mamantoha",
             "repo": "shards-info",
             "stars": 47
@@ -6142,7 +6142,7 @@
                     "last_commit": "2023-03-15T04:38:13Z",
                     "owner": "vim-crystal",
                     "repo": "vim-crystal",
-                    "stars": 427
+                    "stars": 426
                   }
                 },
                 {
@@ -6283,7 +6283,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T15:20:40.773Z",
+    "last_updated": "2026-08-24T14:01:12.549Z",
     "original_repository": "veelenga/awesome-crystal",
     "original_repository_id": 37688007,
     "original_repository_sha": "47af206ce5e1d168549fed8ad878a0bf815be2cb",
