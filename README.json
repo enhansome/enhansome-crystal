@@ -975,7 +975,7 @@
             "last_commit": "2026-06-24T12:27:23Z",
             "owner": "vitobotta",
             "repo": "hetzner-k3s",
-            "stars": 3666
+            "stars": 3667
           }
         },
         {
@@ -3342,7 +3342,7 @@
             "archived": false,
             "id": 93261243,
             "language": "Crystal",
-            "last_commit": "2026-08-20T20:31:14Z",
+            "last_commit": "2026-08-25T02:09:43Z",
             "owner": "icyleaf",
             "repo": "markd",
             "stars": 128
@@ -4500,7 +4500,7 @@
             "archived": false,
             "id": 101847871,
             "language": "Crystal",
-            "last_commit": "2025-11-05T00:54:37Z",
+            "last_commit": "2026-08-25T03:15:51Z",
             "owner": "obsidian",
             "repo": "orion",
             "stars": 128
@@ -4656,7 +4656,7 @@
             "last_commit": "2026-08-23T01:15:22Z",
             "owner": "owasp-noir",
             "repo": "noir",
-            "stars": 1379
+            "stars": 1380
           }
         },
         {
@@ -5559,7 +5559,7 @@
             "last_commit": "2026-08-13T14:19:00Z",
             "owner": "luckyframework",
             "repo": "lucky",
-            "stars": 2723
+            "stars": 2724
           }
         },
         {
@@ -5574,7 +5574,7 @@
             "last_commit": "2026-08-13T17:04:24Z",
             "owner": "amberframework",
             "repo": "amber",
-            "stars": 2603
+            "stars": 2604
           }
         },
         {
@@ -5682,10 +5682,10 @@
             "archived": false,
             "id": 6887813,
             "language": "Crystal",
-            "last_commit": "2026-08-23T20:52:21Z",
+            "last_commit": "2026-08-25T03:36:42Z",
             "owner": "crystal-lang",
             "repo": "crystal",
-            "stars": 20381
+            "stars": 20383
           }
         },
         {
@@ -5721,7 +5721,7 @@
             "last_commit": "2026-08-23T20:33:36Z",
             "owner": "iv-org",
             "repo": "invidious",
-            "stars": 22752
+            "stars": 22759
           }
         },
         {
@@ -6283,7 +6283,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T15:37:18.774Z",
+    "last_updated": "2026-08-25T05:56:32.748Z",
     "original_repository": "veelenga/awesome-crystal",
     "original_repository_id": 37688007,
     "original_repository_sha": "47af206ce5e1d168549fed8ad878a0bf815be2cb",
