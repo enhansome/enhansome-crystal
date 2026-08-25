@@ -972,10 +972,10 @@
             "archived": false,
             "id": 393666948,
             "language": "Crystal",
-            "last_commit": "2026-06-24T12:27:23Z",
+            "last_commit": "2026-08-25T13:00:37Z",
             "owner": "vitobotta",
             "repo": "hetzner-k3s",
-            "stars": 3667
+            "stars": 3666
           }
         },
         {
@@ -3066,7 +3066,7 @@
             "last_commit": "2026-08-19T16:22:48Z",
             "owner": "mint-lang",
             "repo": "mint",
-            "stars": 4265
+            "stars": 4266
           }
         },
         {
@@ -4128,7 +4128,7 @@
             "last_commit": "2023-10-12T15:45:31Z",
             "owner": "Sija",
             "repo": "ipaddress.cr",
-            "stars": 46
+            "stars": 47
           }
         },
         {
@@ -4653,10 +4653,10 @@
             "archived": false,
             "id": 466473918,
             "language": "Crystal",
-            "last_commit": "2026-08-23T01:15:22Z",
+            "last_commit": "2026-08-25T15:15:40Z",
             "owner": "owasp-noir",
             "repo": "noir",
-            "stars": 1380
+            "stars": 1381
           }
         },
         {
@@ -5544,7 +5544,7 @@
             "last_commit": "2026-08-24T11:32:33Z",
             "owner": "kemalcr",
             "repo": "kemal",
-            "stars": 3905
+            "stars": 3907
           }
         },
         {
@@ -5682,10 +5682,10 @@
             "archived": false,
             "id": 6887813,
             "language": "Crystal",
-            "last_commit": "2026-08-25T03:36:42Z",
+            "last_commit": "2026-08-25T10:48:26Z",
             "owner": "crystal-lang",
             "repo": "crystal",
-            "stars": 20383
+            "stars": 20386
           }
         },
         {
@@ -5721,7 +5721,7 @@
             "last_commit": "2026-08-23T20:33:36Z",
             "owner": "iv-org",
             "repo": "invidious",
-            "stars": 22759
+            "stars": 22761
           }
         },
         {
@@ -5763,7 +5763,7 @@
             "archived": false,
             "id": 125723112,
             "language": "Crystal",
-            "last_commit": "2026-08-24T10:03:28Z",
+            "last_commit": "2026-08-25T08:21:03Z",
             "owner": "mamantoha",
             "repo": "shards-info",
             "stars": 47
@@ -6283,7 +6283,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:56:32.748Z",
+    "last_updated": "2026-08-25T15:40:22.625Z",
     "original_repository": "veelenga/awesome-crystal",
     "original_repository_id": 37688007,
     "original_repository_sha": "47af206ce5e1d168549fed8ad878a0bf815be2cb",
