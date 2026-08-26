@@ -975,7 +975,7 @@
             "last_commit": "2026-08-25T13:00:37Z",
             "owner": "vitobotta",
             "repo": "hetzner-k3s",
-            "stars": 3666
+            "stars": 3668
           }
         },
         {
@@ -1143,10 +1143,10 @@
             "archived": false,
             "id": 108447748,
             "language": "Crystal",
-            "last_commit": "2026-08-21T11:00:46Z",
+            "last_commit": "2026-08-26T10:46:13Z",
             "owner": "crystal-ameba",
             "repo": "ameba",
-            "stars": 561
+            "stars": 562
           }
         },
         {
@@ -1371,7 +1371,7 @@
             "archived": false,
             "id": 113626786,
             "language": "Crystal",
-            "last_commit": "2026-08-06T00:08:42Z",
+            "last_commit": "2026-08-26T11:44:21Z",
             "owner": "crystal-money",
             "repo": "money",
             "stars": 44
@@ -1971,7 +1971,7 @@
             "archived": false,
             "id": 324797854,
             "language": "Crystal",
-            "last_commit": "2026-06-18T17:57:31Z",
+            "last_commit": "2026-08-26T11:44:55Z",
             "owner": "Sija",
             "repo": "backtracer.cr",
             "stars": 19
@@ -2859,7 +2859,7 @@
             "last_commit": "2026-08-16T14:05:12Z",
             "owner": "ysbaddaden",
             "repo": "http2",
-            "stars": 109
+            "stars": 110
           }
         },
         {
@@ -3063,7 +3063,7 @@
             "archived": false,
             "id": 125516114,
             "language": "Crystal",
-            "last_commit": "2026-08-19T16:22:48Z",
+            "last_commit": "2026-08-26T12:19:01Z",
             "owner": "mint-lang",
             "repo": "mint",
             "stars": 4266
@@ -4236,7 +4236,7 @@
             "archived": false,
             "id": 230132541,
             "language": "Crystal",
-            "last_commit": "2026-07-27T13:38:31Z",
+            "last_commit": "2026-08-26T15:10:30Z",
             "owner": "crystal-garage",
             "repo": "lustra",
             "stars": 27
@@ -4653,10 +4653,10 @@
             "archived": false,
             "id": 466473918,
             "language": "Crystal",
-            "last_commit": "2026-08-25T15:15:40Z",
+            "last_commit": "2026-08-26T16:15:39Z",
             "owner": "owasp-noir",
             "repo": "noir",
-            "stars": 1381
+            "stars": 1383
           }
         },
         {
@@ -4815,7 +4815,7 @@
             "last_commit": "2026-05-09T15:32:03Z",
             "owner": "jeromegn",
             "repo": "slang",
-            "stars": 237
+            "stars": 238
           }
         },
         {
@@ -5124,7 +5124,7 @@
             "archived": false,
             "id": 80197815,
             "language": "Crystal",
-            "last_commit": "2026-07-06T13:59:12Z",
+            "last_commit": "2026-08-26T11:45:06Z",
             "owner": "Sija",
             "repo": "raven.cr",
             "stars": 134
@@ -5541,7 +5541,7 @@
             "archived": false,
             "id": 44826364,
             "language": "Crystal",
-            "last_commit": "2026-08-24T11:32:33Z",
+            "last_commit": "2026-08-26T13:02:30Z",
             "owner": "kemalcr",
             "repo": "kemal",
             "stars": 3907
@@ -5619,7 +5619,7 @@
             "last_commit": "2026-08-15T15:50:03Z",
             "owner": "athena-framework",
             "repo": "athena",
-            "stars": 236
+            "stars": 237
           }
         },
         {
@@ -5682,10 +5682,10 @@
             "archived": false,
             "id": 6887813,
             "language": "Crystal",
-            "last_commit": "2026-08-25T10:48:26Z",
+            "last_commit": "2026-08-26T07:52:55Z",
             "owner": "crystal-lang",
             "repo": "crystal",
-            "stars": 20386
+            "stars": 20387
           }
         },
         {
@@ -5721,7 +5721,7 @@
             "last_commit": "2026-08-23T20:33:36Z",
             "owner": "iv-org",
             "repo": "invidious",
-            "stars": 22761
+            "stars": 22840
           }
         },
         {
@@ -6032,7 +6032,7 @@
                     "last_commit": "2023-11-11T22:56:50Z",
                     "owner": "asedunov",
                     "repo": "intellij-crystal-lang",
-                    "stars": 41
+                    "stars": 42
                   }
                 }
               ]
@@ -6203,7 +6203,7 @@
                 "last_commit": "2026-08-13T19:09:29Z",
                 "owner": "elbywan",
                 "repo": "crystalline",
-                "stars": 518
+                "stars": 519
               }
             },
             {
@@ -6230,7 +6230,7 @@
                 "archived": false,
                 "id": 949286831,
                 "language": "Crystal",
-                "last_commit": "2026-08-06T14:46:06Z",
+                "last_commit": "2026-08-26T10:51:27Z",
                 "owner": "crystal-ameba",
                 "repo": "ameba-ls",
                 "stars": 45
@@ -6283,7 +6283,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T15:40:22.625Z",
+    "last_updated": "2026-08-26T16:16:21.895Z",
     "original_repository": "veelenga/awesome-crystal",
     "original_repository_id": 37688007,
     "original_repository_sha": "47af206ce5e1d168549fed8ad878a0bf815be2cb",
