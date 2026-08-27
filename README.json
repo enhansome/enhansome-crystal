@@ -579,7 +579,7 @@
             "archived": false,
             "id": 62072714,
             "language": "Crystal",
-            "last_commit": "2026-06-18T21:16:41Z",
+            "last_commit": "2026-08-27T03:17:24Z",
             "owner": "Sija",
             "repo": "gphoto2.cr",
             "stars": 21
@@ -975,7 +975,7 @@
             "last_commit": "2026-08-25T13:00:37Z",
             "owner": "vitobotta",
             "repo": "hetzner-k3s",
-            "stars": 3668
+            "stars": 3667
           }
         },
         {
@@ -1143,10 +1143,10 @@
             "archived": false,
             "id": 108447748,
             "language": "Crystal",
-            "last_commit": "2026-08-26T10:46:13Z",
+            "last_commit": "2026-08-27T02:06:03Z",
             "owner": "crystal-ameba",
             "repo": "ameba",
-            "stars": 562
+            "stars": 563
           }
         },
         {
@@ -3063,7 +3063,7 @@
             "archived": false,
             "id": 125516114,
             "language": "Crystal",
-            "last_commit": "2026-08-26T12:19:01Z",
+            "last_commit": "2026-08-27T06:50:49Z",
             "owner": "mint-lang",
             "repo": "mint",
             "stars": 4266
@@ -3603,7 +3603,7 @@
             "archived": false,
             "id": 64361878,
             "language": "Crystal",
-            "last_commit": "2026-08-20T10:45:45Z",
+            "last_commit": "2026-08-27T03:17:43Z",
             "owner": "Sija",
             "repo": "gphoto2-web",
             "stars": 14
@@ -5544,7 +5544,7 @@
             "last_commit": "2026-08-26T13:02:30Z",
             "owner": "kemalcr",
             "repo": "kemal",
-            "stars": 3907
+            "stars": 3908
           }
         },
         {
@@ -5682,10 +5682,10 @@
             "archived": false,
             "id": 6887813,
             "language": "Crystal",
-            "last_commit": "2026-08-26T07:52:55Z",
+            "last_commit": "2026-08-26T17:08:38Z",
             "owner": "crystal-lang",
             "repo": "crystal",
-            "stars": 20387
+            "stars": 20386
           }
         },
         {
@@ -5721,7 +5721,7 @@
             "last_commit": "2026-08-23T20:33:36Z",
             "owner": "iv-org",
             "repo": "invidious",
-            "stars": 22840
+            "stars": 22885
           }
         },
         {
@@ -6203,7 +6203,7 @@
                 "last_commit": "2026-08-13T19:09:29Z",
                 "owner": "elbywan",
                 "repo": "crystalline",
-                "stars": 519
+                "stars": 520
               }
             },
             {
@@ -6233,7 +6233,7 @@
                 "last_commit": "2026-08-26T10:51:27Z",
                 "owner": "crystal-ameba",
                 "repo": "ameba-ls",
-                "stars": 45
+                "stars": 46
               }
             }
           ],
@@ -6283,9 +6283,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T16:16:21.895Z",
-    "original_repository": "veelenga/awesome-crystal",
-    "original_repository_id": 37688007,
+    "last_updated": "2026-08-27T11:33:12.704Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 37688007,
+      "language": "Crystal",
+      "last_commit": "2026-08-19T14:53:17Z",
+      "owner": "veelenga",
+      "repo": "awesome-crystal",
+      "stars": 3558
+    },
     "original_repository_sha": "47af206ce5e1d168549fed8ad878a0bf815be2cb",
     "enhanced_repository": "enhansome/enhansome-crystal",
     "enhanced_repository_description": null,
