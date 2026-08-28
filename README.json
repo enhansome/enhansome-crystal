@@ -975,7 +975,7 @@
             "last_commit": "2026-08-25T13:00:37Z",
             "owner": "vitobotta",
             "repo": "hetzner-k3s",
-            "stars": 3667
+            "stars": 3666
           }
         },
         {
@@ -1143,7 +1143,7 @@
             "archived": false,
             "id": 108447748,
             "language": "Crystal",
-            "last_commit": "2026-08-27T02:06:03Z",
+            "last_commit": "2026-08-27T21:54:02Z",
             "owner": "crystal-ameba",
             "repo": "ameba",
             "stars": 563
@@ -2606,21 +2606,6 @@
         },
         {
           "node_type": "item",
-          "title": "crystal-imgui",
-          "description": "Bindings to Dear ImGui, an immediate-mode graphical UI library",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 287765552,
-            "language": "Crystal",
-            "last_commit": "2025-11-23T11:23:17Z",
-            "owner": "oprypin",
-            "repo": "crystal-imgui",
-            "stars": 77
-          }
-        },
-        {
-          "node_type": "item",
           "title": "Iu",
           "description": "UI framework based on the Fusion/libui.cr library, with custom elements and modified bindings from hedron-crystal/hedron",
           "children": [],
@@ -2632,6 +2617,21 @@
             "owner": "grkek",
             "repo": "iu",
             "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crystal-imgui",
+          "description": "Bindings to Dear ImGui, an immediate-mode graphical UI library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 287765552,
+            "language": "Crystal",
+            "last_commit": "2025-11-23T11:23:17Z",
+            "owner": "oprypin",
+            "repo": "crystal-imgui",
+            "stars": 75
           }
         },
         {
@@ -4653,10 +4653,10 @@
             "archived": false,
             "id": 466473918,
             "language": "Crystal",
-            "last_commit": "2026-08-26T16:15:39Z",
+            "last_commit": "2026-08-27T16:20:52Z",
             "owner": "owasp-noir",
             "repo": "noir",
-            "stars": 1383
+            "stars": 1384
           }
         },
         {
@@ -5439,7 +5439,7 @@
             "archived": false,
             "id": 544492732,
             "language": "Crystal",
-            "last_commit": "2023-02-21T09:03:35Z",
+            "last_commit": "2026-08-27T23:55:12Z",
             "owner": "rjnienaber",
             "repo": "amazonite",
             "stars": 1
@@ -5544,7 +5544,7 @@
             "last_commit": "2026-08-26T13:02:30Z",
             "owner": "kemalcr",
             "repo": "kemal",
-            "stars": 3908
+            "stars": 3909
           }
         },
         {
@@ -5682,7 +5682,7 @@
             "archived": false,
             "id": 6887813,
             "language": "Crystal",
-            "last_commit": "2026-08-26T17:08:38Z",
+            "last_commit": "2026-08-27T19:45:04Z",
             "owner": "crystal-lang",
             "repo": "crystal",
             "stars": 20386
@@ -5721,7 +5721,7 @@
             "last_commit": "2026-08-23T20:33:36Z",
             "owner": "iv-org",
             "repo": "invidious",
-            "stars": 22885
+            "stars": 22914
           }
         },
         {
@@ -6230,7 +6230,7 @@
                 "archived": false,
                 "id": 949286831,
                 "language": "Crystal",
-                "last_commit": "2026-08-26T10:51:27Z",
+                "last_commit": "2026-08-27T22:48:25Z",
                 "owner": "crystal-ameba",
                 "repo": "ameba-ls",
                 "stars": 46
@@ -6283,7 +6283,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:33:12.704Z",
+    "last_updated": "2026-08-28T00:14:03.965Z",
     "original_repository_info": {
       "archived": false,
       "id": 37688007,
@@ -6291,7 +6291,7 @@
       "last_commit": "2026-08-19T14:53:17Z",
       "owner": "veelenga",
       "repo": "awesome-crystal",
-      "stars": 3558
+      "stars": 3557
     },
     "original_repository_sha": "47af206ce5e1d168549fed8ad878a0bf815be2cb",
     "enhanced_repository": "enhansome/enhansome-crystal",
