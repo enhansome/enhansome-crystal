@@ -1571,7 +1571,7 @@
             "open_issues": 34,
             "owner": "vitobotta",
             "repo": "hetzner-k3s",
-            "stars": 3671,
+            "stars": 3672,
             "topics": [
               "crystal",
               "crystal-lang",
@@ -1859,7 +1859,7 @@
             "id": 108447748,
             "language": "Crystal",
             "license": "MIT",
-            "last_commit": "2026-08-29T15:59:53Z",
+            "last_commit": "2026-09-01T15:49:45Z",
             "open_issues": 30,
             "owner": "crystal-ameba",
             "repo": "ameba",
@@ -6265,7 +6265,7 @@
             "id": 158843142,
             "language": "Crystal",
             "license": "MIT",
-            "last_commit": "2026-08-31T14:57:09Z",
+            "last_commit": "2026-09-01T12:34:55Z",
             "open_issues": 4,
             "owner": "cloudamqp",
             "repo": "amqp-client.cr",
@@ -7545,7 +7545,7 @@
             "open_issues": 12,
             "owner": "owasp-noir",
             "repo": "noir",
-            "stars": 1399,
+            "stars": 1403,
             "topics": [
               "api-security",
               "attack-surfaces",
@@ -8812,7 +8812,7 @@
             "id": 544492732,
             "language": "Crystal",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-30T06:08:39Z",
+            "last_commit": "2026-09-01T11:36:51Z",
             "open_issues": 3,
             "owner": "rjnienaber",
             "repo": "amazonite",
@@ -9066,7 +9066,7 @@
             "open_issues": 17,
             "owner": "martenframework",
             "repo": "marten",
-            "stars": 478,
+            "stars": 479,
             "topics": [
               "backend",
               "crystal",
@@ -9238,8 +9238,8 @@
             "id": 6887813,
             "language": "Crystal",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-31T11:49:41Z",
-            "open_issues": 2041,
+            "last_commit": "2026-09-01T08:00:25Z",
+            "open_issues": 2040,
             "owner": "crystal-lang",
             "repo": "crystal",
             "stars": 20391,
@@ -9301,7 +9301,7 @@
             "open_issues": 475,
             "owner": "iv-org",
             "repo": "invidious",
-            "stars": 23543,
+            "stars": 23700,
             "topics": [
               "agplv3",
               "hacktoberfest",
@@ -10141,7 +10141,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T20:39:18.574Z",
+    "last_updated": "2026-09-01T18:09:16.400Z",
     "original_repository_info": {
       "archived": false,
       "description": ":gem: A collection of awesome Crystal libraries, tools, frameworks and software",
@@ -10153,7 +10153,7 @@
       "open_issues": 1,
       "owner": "veelenga",
       "repo": "awesome-crystal",
-      "stars": 3557,
+      "stars": 3558,
       "topics": [
         "awesome",
         "awesome-list",
