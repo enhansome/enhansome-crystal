@@ -961,7 +961,7 @@
             "open_issues": 1,
             "owner": "mjblack",
             "repo": "win32cr",
-            "stars": 19,
+            "stars": 20,
             "topics": [
               "crystal",
               "crystal-lang",
@@ -1571,7 +1571,7 @@
             "open_issues": 34,
             "owner": "vitobotta",
             "repo": "hetzner-k3s",
-            "stars": 3674,
+            "stars": 3675,
             "topics": [
               "crystal",
               "crystal-lang",
@@ -4931,7 +4931,7 @@
             "open_issues": 0,
             "owner": "spider-gazelle",
             "repo": "ffmpeg",
-            "stars": 22,
+            "stars": 23,
             "topics": []
           },
           "first_seen": "2026-08-28T23:52:07.570Z"
@@ -4958,7 +4958,7 @@
             "open_issues": 14,
             "owner": "mint-lang",
             "repo": "mint",
-            "stars": 4265,
+            "stars": 4266,
             "topics": [
               "compile-to-js",
               "compiler",
@@ -6224,7 +6224,7 @@
             "open_issues": 1,
             "owner": "crystal-community",
             "repo": "jwt",
-            "stars": 212,
+            "stars": 213,
             "topics": [
               "crystal",
               "jwt"
@@ -6871,7 +6871,7 @@
             "id": 230132541,
             "language": "Crystal",
             "license": "MIT",
-            "last_commit": "2026-09-03T09:43:11Z",
+            "last_commit": "2026-09-04T16:17:24Z",
             "open_issues": 1,
             "owner": "crystal-garage",
             "repo": "lustra",
@@ -7379,8 +7379,8 @@
             "id": 214254019,
             "language": "Crystal",
             "license": "MIT",
-            "last_commit": "2024-06-20T18:34:53Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-03T22:28:53Z",
+            "open_issues": 5,
             "owner": "crystal-data",
             "repo": "num.cr",
             "stars": 163,
@@ -7541,11 +7541,11 @@
             "id": 466473918,
             "language": "Crystal",
             "license": "MIT",
-            "last_commit": "2026-09-02T16:02:37Z",
+            "last_commit": "2026-09-04T15:28:43Z",
             "open_issues": 11,
             "owner": "owasp-noir",
             "repo": "noir",
-            "stars": 1414,
+            "stars": 1416,
             "topics": [
               "api-security",
               "attack-surfaces",
@@ -9238,11 +9238,11 @@
             "id": 6887813,
             "language": "Crystal",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-03T17:08:23Z",
-            "open_issues": 2032,
+            "last_commit": "2026-09-04T06:34:49Z",
+            "open_issues": 2033,
             "owner": "crystal-lang",
             "repo": "crystal",
-            "stars": 20398,
+            "stars": 20399,
             "topics": [
               "compiler",
               "crystal",
@@ -9298,10 +9298,10 @@
             "language": "Crystal",
             "license": "AGPL-3.0",
             "last_commit": "2026-08-28T21:50:40Z",
-            "open_issues": 476,
+            "open_issues": 475,
             "owner": "iv-org",
             "repo": "invidious",
-            "stars": 24148,
+            "stars": 24228,
             "topics": [
               "agplv3",
               "hacktoberfest",
@@ -9372,7 +9372,7 @@
             "id": 125723112,
             "language": "Crystal",
             "license": "MIT",
-            "last_commit": "2026-09-03T11:14:43Z",
+            "last_commit": "2026-09-04T17:12:36Z",
             "open_issues": 2,
             "owner": "mamantoha",
             "repo": "shards-info",
@@ -10141,7 +10141,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T18:20:54.139Z",
+    "last_updated": "2026-09-04T18:06:09.952Z",
     "original_repository_info": {
       "archived": false,
       "description": ":gem: A collection of awesome Crystal libraries, tools, frameworks and software",
