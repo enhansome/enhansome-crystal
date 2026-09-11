@@ -43,7 +43,7 @@
             "open_issues": 3,
             "owner": "luislavena",
             "repo": "radix",
-            "stars": 105,
+            "stars": 106,
             "topics": [
               "crystal",
               "radix-tree"
@@ -121,7 +121,7 @@
             "open_issues": 0,
             "owner": "tobyapi",
             "repo": "crystalg",
-            "stars": 38,
+            "stars": 39,
             "topics": [
               "algorithm",
               "crystal"
@@ -344,7 +344,7 @@
             "open_issues": 0,
             "owner": "wyhaines",
             "repo": "csuuid.cr",
-            "stars": 17,
+            "stars": 18,
             "topics": []
           },
           "first_seen": "2026-08-28T23:52:07.570Z"
@@ -429,6 +429,30 @@
         },
         {
           "node_type": "item",
+          "title": "crie",
+          "description": "Compile-time Trie",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Compile-time Trie in Crystal",
+            "homepage": null,
+            "id": 202342892,
+            "language": "Crystal",
+            "license": "MIT",
+            "last_commit": "2021-05-19T17:36:41Z",
+            "open_issues": 0,
+            "owner": "c910335",
+            "repo": "crie",
+            "stars": 13,
+            "topics": [
+              "crystal",
+              "trie"
+            ]
+          },
+          "first_seen": "2026-08-28T23:52:07.570Z"
+        },
+        {
+          "node_type": "item",
           "title": "bisect",
           "description": "Inserting values into a sorted array",
           "children": [],
@@ -445,30 +469,6 @@
             "repo": "bisect",
             "stars": 12,
             "topics": []
-          },
-          "first_seen": "2026-08-28T23:52:07.570Z"
-        },
-        {
-          "node_type": "item",
-          "title": "crie",
-          "description": "Compile-time Trie",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Compile-time Trie in Crystal",
-            "homepage": null,
-            "id": 202342892,
-            "language": "Crystal",
-            "license": "MIT",
-            "last_commit": "2021-05-19T17:36:41Z",
-            "open_issues": 0,
-            "owner": "c910335",
-            "repo": "crie",
-            "stars": 12,
-            "topics": [
-              "crystal",
-              "trie"
-            ]
           },
           "first_seen": "2026-08-28T23:52:07.570Z"
         },
@@ -1568,10 +1568,10 @@
             "language": "Crystal",
             "license": "MIT",
             "last_commit": "2026-08-25T13:00:37Z",
-            "open_issues": 34,
+            "open_issues": 35,
             "owner": "vitobotta",
             "repo": "hetzner-k3s",
-            "stars": 3678,
+            "stars": 3679,
             "topics": [
               "crystal",
               "crystal-lang",
@@ -3602,7 +3602,7 @@
             "open_issues": 0,
             "owner": "gdonald",
             "repo": "blackjack-cr",
-            "stars": 10,
+            "stars": 11,
             "topics": [
               "blackjack",
               "console",
@@ -4597,8 +4597,8 @@
             "id": 51670579,
             "language": "Crystal",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-16T14:05:12Z",
-            "open_issues": 8,
+            "last_commit": "2026-09-11T08:43:00Z",
+            "open_issues": 6,
             "owner": "ysbaddaden",
             "repo": "http2",
             "stars": 111,
@@ -4954,7 +4954,7 @@
             "id": 125516114,
             "language": "Crystal",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-04T21:46:28Z",
+            "last_commit": "2026-09-11T02:25:41Z",
             "open_issues": 14,
             "owner": "mint-lang",
             "repo": "mint",
@@ -5333,7 +5333,7 @@
             "id": 113332848,
             "language": "Crystal",
             "license": "MIT",
-            "last_commit": "2026-08-06T09:52:31Z",
+            "last_commit": "2026-09-11T15:17:56Z",
             "open_issues": 1,
             "owner": "NeuraLegion",
             "repo": "shainet",
@@ -6871,7 +6871,7 @@
             "id": 230132541,
             "language": "Crystal",
             "license": "MIT",
-            "last_commit": "2026-09-10T14:10:56Z",
+            "last_commit": "2026-09-11T08:27:49Z",
             "open_issues": 1,
             "owner": "crystal-garage",
             "repo": "lustra",
@@ -7541,7 +7541,7 @@
             "id": 466473918,
             "language": "Crystal",
             "license": "MIT",
-            "last_commit": "2026-09-10T15:53:09Z",
+            "last_commit": "2026-09-11T14:11:29Z",
             "open_issues": 12,
             "owner": "owasp-noir",
             "repo": "noir",
@@ -8150,7 +8150,7 @@
             "open_issues": 8,
             "owner": "crystal-loot",
             "repo": "selenium.cr",
-            "stars": 27,
+            "stars": 28,
             "topics": [
               "crystal",
               "selenium",
@@ -8812,7 +8812,7 @@
             "id": 544492732,
             "language": "Crystal",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-10T17:14:48Z",
+            "last_commit": "2026-09-11T08:10:04Z",
             "open_issues": 1,
             "owner": "rjnienaber",
             "repo": "amazonite",
@@ -8970,8 +8970,8 @@
             "id": 44826364,
             "language": "Crystal",
             "license": "MIT",
-            "last_commit": "2026-09-08T14:32:47Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-11T14:12:34Z",
+            "open_issues": 5,
             "owner": "kemalcr",
             "repo": "kemal",
             "stars": 3912,
@@ -9006,7 +9006,7 @@
             "open_issues": 93,
             "owner": "luckyframework",
             "repo": "lucky",
-            "stars": 2726,
+            "stars": 2727,
             "topics": [
               "crystal",
               "hacktoberfest",
@@ -9238,11 +9238,11 @@
             "id": 6887813,
             "language": "Crystal",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-10T11:56:23Z",
-            "open_issues": 2030,
+            "last_commit": "2026-09-11T12:48:55Z",
+            "open_issues": 2034,
             "owner": "crystal-lang",
             "repo": "crystal",
-            "stars": 20400,
+            "stars": 20405,
             "topics": [
               "compiler",
               "crystal",
@@ -9298,10 +9298,10 @@
             "language": "Crystal",
             "license": "AGPL-3.0",
             "last_commit": "2026-09-04T20:47:00Z",
-            "open_issues": 480,
+            "open_issues": 479,
             "owner": "iv-org",
             "repo": "invidious",
-            "stars": 24355,
+            "stars": 24382,
             "topics": [
               "agplv3",
               "hacktoberfest",
@@ -9372,7 +9372,7 @@
             "id": 125723112,
             "language": "Crystal",
             "license": "MIT",
-            "last_commit": "2026-09-10T12:22:13Z",
+            "last_commit": "2026-09-11T10:12:22Z",
             "open_issues": 3,
             "owner": "mamantoha",
             "repo": "shards-info",
@@ -10141,7 +10141,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T18:06:05.174Z",
+    "last_updated": "2026-09-11T18:10:28.987Z",
     "original_repository_info": {
       "archived": false,
       "description": ":gem: A collection of awesome Crystal libraries, tools, frameworks and software",
