@@ -1396,7 +1396,7 @@
             "open_issues": 9,
             "owner": "mrrooijen",
             "repo": "commander",
-            "stars": 131,
+            "stars": 130,
             "topics": []
           },
           "first_seen": "2026-08-28T23:52:07.570Z"
@@ -1571,7 +1571,7 @@
             "open_issues": 35,
             "owner": "vitobotta",
             "repo": "hetzner-k3s",
-            "stars": 3687,
+            "stars": 3688,
             "topics": [
               "crystal",
               "crystal-lang",
@@ -1751,30 +1751,6 @@
         },
         {
           "node_type": "item",
-          "title": "climate",
-          "description": "Tiny tool to make your CLI output 🌈 coloured",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Tiny tool to make your CLI output 🌈  coloured",
-            "homepage": null,
-            "id": 265970028,
-            "language": "Crystal",
-            "license": "MIT",
-            "last_commit": "2025-04-23T01:16:31Z",
-            "open_issues": 0,
-            "owner": "Sija",
-            "repo": "climate.cr",
-            "stars": 17,
-            "topics": [
-              "cli",
-              "crystal"
-            ]
-          },
-          "first_seen": "2026-08-28T23:52:07.570Z"
-        },
-        {
-          "node_type": "item",
           "title": "progress_bar.cr",
           "description": "A simple and customizable progress bar",
           "children": [],
@@ -1791,6 +1767,30 @@
             "repo": "progress_bar.cr",
             "stars": 17,
             "topics": []
+          },
+          "first_seen": "2026-08-28T23:52:07.570Z"
+        },
+        {
+          "node_type": "item",
+          "title": "climate",
+          "description": "Tiny tool to make your CLI output 🌈 coloured",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Tiny tool to make your CLI output 🌈  coloured",
+            "homepage": null,
+            "id": 265970028,
+            "language": "Crystal",
+            "license": "MIT",
+            "last_commit": "2025-04-23T01:16:31Z",
+            "open_issues": 0,
+            "owner": "Sija",
+            "repo": "climate.cr",
+            "stars": 16,
+            "topics": [
+              "cli",
+              "crystal"
+            ]
           },
           "first_seen": "2026-08-28T23:52:07.570Z"
         },
@@ -1859,8 +1859,8 @@
             "id": 108447748,
             "language": "Crystal",
             "license": "MIT",
-            "last_commit": "2026-09-20T07:58:24Z",
-            "open_issues": 33,
+            "last_commit": "2026-09-25T13:25:28Z",
+            "open_issues": 32,
             "owner": "crystal-ameba",
             "repo": "ameba",
             "stars": 566,
@@ -2612,7 +2612,7 @@
             "open_issues": 0,
             "owner": "NeuraLegion",
             "repo": "har",
-            "stars": 22,
+            "stars": 21,
             "topics": [
               "crystal",
               "har",
@@ -2692,7 +2692,7 @@
             "id": 527810607,
             "language": "Crystal",
             "license": "MIT",
-            "last_commit": "2026-06-14T11:40:18Z",
+            "last_commit": "2026-09-25T00:01:04Z",
             "open_issues": 0,
             "owner": "spider-gazelle",
             "repo": "json-schema",
@@ -2800,7 +2800,7 @@
             "open_issues": 0,
             "owner": "askn",
             "repo": "faker",
-            "stars": 158,
+            "stars": 157,
             "topics": [
               "crystal",
               "fake"
@@ -2879,7 +2879,7 @@
             "open_issues": 36,
             "owner": "will",
             "repo": "crystal-pg",
-            "stars": 481,
+            "stars": 480,
             "topics": [
               "crystal",
               "postgres"
@@ -4465,7 +4465,7 @@
             "open_issues": 0,
             "owner": "mamantoha",
             "repo": "crest",
-            "stars": 250,
+            "stars": 249,
             "topics": [
               "crystal",
               "curl",
@@ -4960,7 +4960,7 @@
             "open_issues": 14,
             "owner": "mint-lang",
             "repo": "mint",
-            "stars": 4268,
+            "stars": 4267,
             "topics": [
               "compile-to-js",
               "compiler",
@@ -5335,8 +5335,8 @@
             "id": 113332848,
             "language": "Crystal",
             "license": "MIT",
-            "last_commit": "2026-09-22T10:19:21Z",
-            "open_issues": 0,
+            "last_commit": "2026-09-25T13:23:22Z",
+            "open_issues": 1,
             "owner": "NeuraLegion",
             "repo": "shainet",
             "stars": 197,
@@ -6823,7 +6823,7 @@
             "open_issues": 32,
             "owner": "anykeyh",
             "repo": "clear",
-            "stars": 284,
+            "stars": 283,
             "topics": [
               "crystal",
               "crystal-language",
@@ -6873,7 +6873,7 @@
             "id": 230132541,
             "language": "Crystal",
             "license": "MIT",
-            "last_commit": "2026-09-24T15:09:52Z",
+            "last_commit": "2026-09-25T17:02:34Z",
             "open_issues": 1,
             "owner": "crystal-garage",
             "repo": "lustra",
@@ -7543,11 +7543,11 @@
             "id": 466473918,
             "language": "Crystal",
             "license": "MIT",
-            "last_commit": "2026-09-24T16:36:21Z",
-            "open_issues": 8,
+            "last_commit": "2026-09-25T08:23:37Z",
+            "open_issues": 6,
             "owner": "owasp-noir",
             "repo": "noir",
-            "stars": 1432,
+            "stars": 1434,
             "topics": [
               "api-security",
               "attack-surfaces",
@@ -8814,7 +8814,7 @@
             "id": 544492732,
             "language": "Crystal",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-24T08:30:39Z",
+            "last_commit": "2026-09-25T08:56:51Z",
             "open_issues": 1,
             "owner": "rjnienaber",
             "repo": "amazonite",
@@ -8976,7 +8976,7 @@
             "open_issues": 3,
             "owner": "kemalcr",
             "repo": "kemal",
-            "stars": 3918,
+            "stars": 3917,
             "topics": [
               "api",
               "crystal",
@@ -9064,8 +9064,8 @@
             "id": 242279238,
             "language": "Crystal",
             "license": "MIT",
-            "last_commit": "2026-09-21T08:45:10Z",
-            "open_issues": 20,
+            "last_commit": "2026-09-24T18:56:23Z",
+            "open_issues": 21,
             "owner": "martenframework",
             "repo": "marten",
             "stars": 483,
@@ -9153,7 +9153,7 @@
             "id": 120065703,
             "language": "Crystal",
             "license": "WTFPL",
-            "last_commit": "2026-08-13T01:45:26Z",
+            "last_commit": "2026-09-25T00:22:20Z",
             "open_issues": 2,
             "owner": "spider-gazelle",
             "repo": "spider-gazelle",
@@ -9240,11 +9240,11 @@
             "id": 6887813,
             "language": "Crystal",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-24T05:55:09Z",
-            "open_issues": 2033,
+            "last_commit": "2026-09-25T18:49:14Z",
+            "open_issues": 2040,
             "owner": "crystal-lang",
             "repo": "crystal",
-            "stars": 20421,
+            "stars": 20424,
             "topics": [
               "compiler",
               "crystal",
@@ -9300,10 +9300,10 @@
             "language": "Crystal",
             "license": "AGPL-3.0",
             "last_commit": "2026-09-18T20:44:25Z",
-            "open_issues": 492,
+            "open_issues": 493,
             "owner": "iv-org",
             "repo": "invidious",
-            "stars": 24764,
+            "stars": 24781,
             "topics": [
               "agplv3",
               "hacktoberfest",
@@ -10143,7 +10143,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T18:49:44.005Z",
+    "last_updated": "2026-09-25T19:07:39.560Z",
     "original_repository_info": {
       "archived": false,
       "description": ":gem: A collection of awesome Crystal libraries, tools, frameworks and software",
@@ -10155,7 +10155,7 @@
       "open_issues": 1,
       "owner": "veelenga",
       "repo": "awesome-crystal",
-      "stars": 3562,
+      "stars": 3561,
       "topics": [
         "awesome",
         "awesome-list",
