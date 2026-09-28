@@ -279,6 +279,27 @@
         },
         {
           "node_type": "item",
+          "title": "csuuid",
+          "description": "A Chronologically Sortable UUID",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "This is a small UUID library that implements a chronologically sortable UUID.",
+            "homepage": null,
+            "id": 349219053,
+            "language": "Crystal",
+            "license": "Apache-2.0",
+            "last_commit": "2024-10-08T14:48:35Z",
+            "open_issues": 0,
+            "owner": "wyhaines",
+            "repo": "csuuid.cr",
+            "stars": 19,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T23:52:07.570Z"
+        },
+        {
+          "node_type": "item",
           "title": "haversine",
           "description": "An Implementation of the Haversine formula",
           "children": [],
@@ -325,27 +346,6 @@
               "priority-queue",
               "tree-structure"
             ]
-          },
-          "first_seen": "2026-08-28T23:52:07.570Z"
-        },
-        {
-          "node_type": "item",
-          "title": "csuuid",
-          "description": "A Chronologically Sortable UUID",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "This is a small UUID library that implements a chronologically sortable UUID.",
-            "homepage": null,
-            "id": 349219053,
-            "language": "Crystal",
-            "license": "Apache-2.0",
-            "last_commit": "2024-10-08T14:48:35Z",
-            "open_issues": 0,
-            "owner": "wyhaines",
-            "repo": "csuuid.cr",
-            "stars": 18,
-            "topics": []
           },
           "first_seen": "2026-08-28T23:52:07.570Z"
         },
@@ -1286,7 +1286,7 @@
             "open_issues": 0,
             "owner": "crystal-cache",
             "repo": "cache",
-            "stars": 53,
+            "stars": 54,
             "topics": [
               "cache",
               "crystal",
@@ -1571,7 +1571,7 @@
             "open_issues": 35,
             "owner": "vitobotta",
             "repo": "hetzner-k3s",
-            "stars": 3691,
+            "stars": 3692,
             "topics": [
               "crystal",
               "crystal-lang",
@@ -1863,7 +1863,7 @@
             "open_issues": 36,
             "owner": "crystal-ameba",
             "repo": "ameba",
-            "stars": 566,
+            "stars": 567,
             "topics": [
               "ameba",
               "code-analysis",
@@ -3193,7 +3193,7 @@
             "id": 324797854,
             "language": "Crystal",
             "license": "MIT",
-            "last_commit": "2026-08-26T11:44:55Z",
+            "last_commit": "2026-09-27T20:39:54Z",
             "open_issues": 0,
             "owner": "Sija",
             "repo": "backtracer.cr",
@@ -3955,6 +3955,34 @@
             ]
           },
           "first_seen": "2026-08-28T23:52:07.570Z"
+        },
+        {
+          "node_type": "item",
+          "title": "kemal-identity",
+          "description": "Authentication and identity primitives with first-class Kemal integration",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Authentication for Kemal applications with server-side opaque sessions, password-based credentials, and real session revocation.",
+            "homepage": null,
+            "id": 1345494810,
+            "language": "Crystal",
+            "license": "MIT",
+            "last_commit": "2026-09-08T08:00:36Z",
+            "open_issues": 0,
+            "owner": "urunsiyabend",
+            "repo": "kemal-identity",
+            "stars": 6,
+            "topics": [
+              "authentication",
+              "authorization",
+              "crystal",
+              "crystal-lang",
+              "kemal",
+              "web"
+            ]
+          },
+          "first_seen": "2026-09-28T21:04:12.581Z"
         },
         {
           "node_type": "item",
@@ -5058,8 +5086,8 @@
             "id": 1127023752,
             "language": "Crystal",
             "license": "MIT",
-            "last_commit": "2026-08-19T03:47:31Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-28T18:40:53Z",
+            "open_issues": 6,
             "owner": "GiavaScript",
             "repo": "GiavaScript",
             "stars": 7,
@@ -6873,7 +6901,7 @@
             "id": 230132541,
             "language": "Crystal",
             "license": "MIT",
-            "last_commit": "2026-09-26T07:56:27Z",
+            "last_commit": "2026-09-28T09:31:58Z",
             "open_issues": 1,
             "owner": "crystal-garage",
             "repo": "lustra",
@@ -7543,11 +7571,11 @@
             "id": 466473918,
             "language": "Crystal",
             "license": "MIT",
-            "last_commit": "2026-09-27T14:09:52Z",
+            "last_commit": "2026-09-28T16:02:07Z",
             "open_issues": 6,
             "owner": "owasp-noir",
             "repo": "noir",
-            "stars": 1436,
+            "stars": 1435,
             "topics": [
               "api-security",
               "attack-surfaces",
@@ -7956,7 +7984,7 @@
             "open_issues": 1,
             "owner": "ysbaddaden",
             "repo": "minitest.cr",
-            "stars": 153,
+            "stars": 154,
             "topics": [
               "crystal",
               "testing"
@@ -8124,7 +8152,7 @@
             "open_issues": 0,
             "owner": "emancu",
             "repo": "crotest",
-            "stars": 29,
+            "stars": 28,
             "topics": [
               "assertions",
               "crystal",
@@ -8301,11 +8329,11 @@
             "id": 80197815,
             "language": "Crystal",
             "license": "MIT",
-            "last_commit": "2026-08-26T11:45:06Z",
+            "last_commit": "2026-09-27T20:40:39Z",
             "open_issues": 5,
             "owner": "Sija",
             "repo": "raven.cr",
-            "stars": 134,
+            "stars": 135,
             "topics": [
               "crash-reporting",
               "crystal",
@@ -8976,7 +9004,7 @@
             "open_issues": 3,
             "owner": "kemalcr",
             "repo": "kemal",
-            "stars": 3917,
+            "stars": 3918,
             "topics": [
               "api",
               "crystal",
@@ -9064,8 +9092,8 @@
             "id": 242279238,
             "language": "Crystal",
             "license": "MIT",
-            "last_commit": "2026-09-26T11:55:03Z",
-            "open_issues": 17,
+            "last_commit": "2026-09-28T08:46:06Z",
+            "open_issues": 20,
             "owner": "martenframework",
             "repo": "marten",
             "stars": 483,
@@ -9240,11 +9268,11 @@
             "id": 6887813,
             "language": "Crystal",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-26T19:45:49Z",
-            "open_issues": 2044,
+            "last_commit": "2026-09-28T20:57:40Z",
+            "open_issues": 2042,
             "owner": "crystal-lang",
             "repo": "crystal",
-            "stars": 20428,
+            "stars": 20434,
             "topics": [
               "compiler",
               "crystal",
@@ -9300,10 +9328,10 @@
             "language": "Crystal",
             "license": "AGPL-3.0",
             "last_commit": "2026-09-25T20:44:37Z",
-            "open_issues": 493,
+            "open_issues": 494,
             "owner": "iv-org",
             "repo": "invidious",
-            "stars": 24801,
+            "stars": 24813,
             "topics": [
               "agplv3",
               "hacktoberfest",
@@ -9374,7 +9402,7 @@
             "id": 125723112,
             "language": "Crystal",
             "license": "MIT",
-            "last_commit": "2026-09-26T09:39:40Z",
+            "last_commit": "2026-09-28T15:40:06Z",
             "open_issues": 3,
             "owner": "mamantoha",
             "repo": "shards-info",
@@ -10143,7 +10171,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T18:53:58.784Z",
+    "last_updated": "2026-09-28T21:04:12.581Z",
     "original_repository_info": {
       "archived": false,
       "description": ":gem: A collection of awesome Crystal libraries, tools, frameworks and software",
@@ -10151,11 +10179,11 @@
       "id": 37688007,
       "language": "Crystal",
       "license": "MIT",
-      "last_commit": "2026-08-19T14:53:17Z",
+      "last_commit": "2026-09-28T13:05:32Z",
       "open_issues": 1,
       "owner": "veelenga",
       "repo": "awesome-crystal",
-      "stars": 3562,
+      "stars": 3563,
       "topics": [
         "awesome",
         "awesome-list",
@@ -10164,7 +10192,7 @@
         "shards"
       ]
     },
-    "original_repository_sha": "47af206ce5e1d168549fed8ad878a0bf815be2cb",
+    "original_repository_sha": "fea45b790665e2dd90ec5015925831df66f783aa",
     "enhanced_repository": "enhansome/enhansome-crystal",
     "enhanced_repository_description": null,
     "title": "Awesome Crystal with stars"
