@@ -1571,7 +1571,7 @@
             "open_issues": 35,
             "owner": "vitobotta",
             "repo": "hetzner-k3s",
-            "stars": 3694,
+            "stars": 3693,
             "topics": [
               "crystal",
               "crystal-lang",
@@ -2591,7 +2591,7 @@
             "open_issues": 2,
             "owner": "anykeyh",
             "repo": "json_on_steroids",
-            "stars": 25,
+            "stars": 24,
             "topics": []
           },
           "first_seen": "2026-08-28T23:52:07.570Z"
@@ -2953,7 +2953,7 @@
             "open_issues": 22,
             "owner": "crystal-lang",
             "repo": "crystal-sqlite3",
-            "stars": 161,
+            "stars": 160,
             "topics": [
               "crystal",
               "database",
@@ -5086,8 +5086,8 @@
             "id": 1127023752,
             "language": "Crystal",
             "license": "MIT",
-            "last_commit": "2026-09-29T20:57:01Z",
-            "open_issues": 6,
+            "last_commit": "2026-10-02T22:50:42Z",
+            "open_issues": 7,
             "owner": "GiavaScript",
             "repo": "GiavaScript",
             "stars": 7,
@@ -7984,7 +7984,7 @@
             "open_issues": 1,
             "owner": "ysbaddaden",
             "repo": "minitest.cr",
-            "stars": 154,
+            "stars": 153,
             "topics": [
               "crystal",
               "testing"
@@ -9157,7 +9157,7 @@
             "language": "Crystal",
             "license": "MIT",
             "last_commit": "2026-09-09T04:01:22Z",
-            "open_issues": 13,
+            "open_issues": 15,
             "owner": "athena-framework",
             "repo": "athena",
             "stars": 237,
@@ -9268,8 +9268,8 @@
             "id": 6887813,
             "language": "Crystal",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T17:16:54Z",
-            "open_issues": 2060,
+            "last_commit": "2026-10-02T22:22:50Z",
+            "open_issues": 2057,
             "owner": "crystal-lang",
             "repo": "crystal",
             "stars": 20439,
@@ -9327,11 +9327,11 @@
             "id": 120542434,
             "language": "Crystal",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-30T23:14:34Z",
-            "open_issues": 492,
+            "last_commit": "2026-10-02T20:44:24Z",
+            "open_issues": 494,
             "owner": "iv-org",
             "repo": "invidious",
-            "stars": 24914,
+            "stars": 24927,
             "topics": [
               "agplv3",
               "hacktoberfest",
@@ -10171,7 +10171,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T19:45:08.106Z",
+    "last_updated": "2026-10-03T04:38:01.232Z",
     "original_repository_info": {
       "archived": false,
       "description": ":gem: A collection of awesome Crystal libraries, tools, frameworks and software",
