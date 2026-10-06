@@ -2653,6 +2653,27 @@
         },
         {
           "node_type": "item",
+          "title": "json-schema",
+          "description": "convert JSON serializable classes into a JSON Schema representation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Describe crystal-lang JSON serializable types with JSON Schema",
+            "homepage": null,
+            "id": 527810607,
+            "language": "Crystal",
+            "license": "MIT",
+            "last_commit": "2026-09-25T00:01:04Z",
+            "open_issues": 0,
+            "owner": "spider-gazelle",
+            "repo": "json-schema",
+            "stars": 16,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T23:52:07.570Z"
+        },
+        {
+          "node_type": "item",
           "title": "front_matter.cr",
           "description": "Separates a files front matter from its content",
           "children": [],
@@ -2677,27 +2698,6 @@
               "frontmatter",
               "shards"
             ]
-          },
-          "first_seen": "2026-08-28T23:52:07.570Z"
-        },
-        {
-          "node_type": "item",
-          "title": "json-schema",
-          "description": "convert JSON serializable classes into a JSON Schema representation",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Describe crystal-lang JSON serializable types with JSON Schema",
-            "homepage": null,
-            "id": 527810607,
-            "language": "Crystal",
-            "license": "MIT",
-            "last_commit": "2026-09-25T00:01:04Z",
-            "open_issues": 0,
-            "owner": "spider-gazelle",
-            "repo": "json-schema",
-            "stars": 15,
-            "topics": []
           },
           "first_seen": "2026-08-28T23:52:07.570Z"
         },
@@ -2764,7 +2764,7 @@
             "id": 1086607951,
             "language": "Crystal",
             "license": "MIT",
-            "last_commit": "2026-10-06T08:16:40Z",
+            "last_commit": "2026-10-06T14:50:49Z",
             "open_issues": 0,
             "owner": "mamantoha",
             "repo": "toon-crystal",
@@ -2925,8 +2925,8 @@
             "id": 52573974,
             "language": "Crystal",
             "license": "MIT",
-            "last_commit": "2026-10-06T00:12:23Z",
-            "open_issues": 40,
+            "last_commit": "2026-10-06T13:00:51Z",
+            "open_issues": 39,
             "owner": "crystal-lang",
             "repo": "crystal-db",
             "stars": 313,
@@ -3577,7 +3577,7 @@
             "id": 72994510,
             "language": "Crystal",
             "license": "MIT",
-            "last_commit": "2022-10-16T11:30:24Z",
+            "last_commit": "2026-10-06T17:13:23Z",
             "open_issues": 1,
             "owner": "maiha",
             "repo": "try.cr",
@@ -7571,11 +7571,11 @@
             "id": 466473918,
             "language": "Crystal",
             "license": "MIT",
-            "last_commit": "2026-10-05T15:10:37Z",
-            "open_issues": 28,
+            "last_commit": "2026-10-06T15:42:08Z",
+            "open_issues": 27,
             "owner": "owasp-noir",
             "repo": "noir",
-            "stars": 1444,
+            "stars": 1445,
             "topics": [
               "api-security",
               "attack-surfaces",
@@ -9269,10 +9269,10 @@
             "language": "Crystal",
             "license": "Apache-2.0",
             "last_commit": "2026-10-06T09:28:36Z",
-            "open_issues": 2067,
+            "open_issues": 2070,
             "owner": "crystal-lang",
             "repo": "crystal",
-            "stars": 20442,
+            "stars": 20443,
             "topics": [
               "compiler",
               "crystal",
@@ -9328,10 +9328,10 @@
             "language": "Crystal",
             "license": "AGPL-3.0",
             "last_commit": "2026-10-02T20:44:24Z",
-            "open_issues": 495,
+            "open_issues": 494,
             "owner": "iv-org",
             "repo": "invidious",
-            "stars": 25133,
+            "stars": 25142,
             "topics": [
               "agplv3",
               "hacktoberfest",
@@ -10171,7 +10171,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:59:41.788Z",
+    "last_updated": "2026-10-06T19:58:27.073Z",
     "original_repository_info": {
       "archived": false,
       "description": ":gem: A collection of awesome Crystal libraries, tools, frameworks and software",
