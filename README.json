@@ -1331,7 +1331,7 @@
             "language": "Crystal",
             "license": "MIT",
             "last_commit": "2026-09-26T01:09:26Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "jbox-web",
             "repo": "apt-larder",
             "stars": 8,
@@ -4304,7 +4304,7 @@
             "open_issues": 1,
             "owner": "wolfgang371",
             "repo": "crymbleui",
-            "stars": 50,
+            "stars": 51,
             "topics": []
           },
           "first_seen": "2026-08-28T23:52:07.570Z"
@@ -4578,7 +4578,7 @@
             "language": "Crystal",
             "license": "MIT",
             "last_commit": "2026-10-15T22:32:58Z",
-            "open_issues": 12,
+            "open_issues": 11,
             "owner": "cable-cr",
             "repo": "cable",
             "stars": 137,
@@ -4988,7 +4988,7 @@
             "open_issues": 14,
             "owner": "mint-lang",
             "repo": "mint",
-            "stars": 4269,
+            "stars": 4270,
             "topics": [
               "compile-to-js",
               "compiler",
@@ -6901,8 +6901,8 @@
             "id": 230132541,
             "language": "Crystal",
             "license": "MIT",
-            "last_commit": "2026-10-14T08:37:03Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-20T16:38:35Z",
+            "open_issues": 2,
             "owner": "crystal-garage",
             "repo": "lustra",
             "stars": 29,
@@ -7215,7 +7215,7 @@
             "id": 109764921,
             "language": "Crystal",
             "license": "MIT",
-            "last_commit": "2026-10-14T15:14:12Z",
+            "last_commit": "2026-10-20T04:03:18Z",
             "open_issues": 22,
             "owner": "mosquito-cr",
             "repo": "mosquito",
@@ -7608,11 +7608,11 @@
             "id": 466473918,
             "language": "Crystal",
             "license": "MIT",
-            "last_commit": "2026-10-19T16:41:38Z",
+            "last_commit": "2026-10-19T23:27:00Z",
             "open_issues": 7,
             "owner": "owasp-noir",
             "repo": "noir",
-            "stars": 1460,
+            "stars": 1459,
             "topics": [
               "api-security",
               "attack-surfaces",
@@ -8879,7 +8879,7 @@
             "id": 544492732,
             "language": "Crystal",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-15T08:22:40Z",
+            "last_commit": "2026-10-20T08:36:32Z",
             "open_issues": 1,
             "owner": "rjnienaber",
             "repo": "amazonite",
@@ -9193,7 +9193,7 @@
             "id": 163561796,
             "language": "Crystal",
             "license": "MIT",
-            "last_commit": "2026-10-19T20:06:36Z",
+            "last_commit": "2026-10-20T18:39:07Z",
             "open_issues": 14,
             "owner": "athena-framework",
             "repo": "athena",
@@ -9305,11 +9305,11 @@
             "id": 6887813,
             "language": "Crystal",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-19T20:15:59Z",
-            "open_issues": 2113,
+            "last_commit": "2026-10-20T07:58:31Z",
+            "open_issues": 2119,
             "owner": "crystal-lang",
             "repo": "crystal",
-            "stars": 20462,
+            "stars": 20464,
             "topics": [
               "compiler",
               "crystal",
@@ -9365,10 +9365,10 @@
             "language": "Crystal",
             "license": "AGPL-3.0",
             "last_commit": "2026-10-19T07:28:19Z",
-            "open_issues": 498,
+            "open_issues": 500,
             "owner": "iv-org",
             "repo": "invidious",
-            "stars": 25533,
+            "stars": 25567,
             "topics": [
               "agplv3",
               "hacktoberfest",
@@ -9439,7 +9439,7 @@
             "id": 125723112,
             "language": "Crystal",
             "license": "MIT",
-            "last_commit": "2026-10-19T10:09:11Z",
+            "last_commit": "2026-10-20T10:28:55Z",
             "open_issues": 3,
             "owner": "mamantoha",
             "repo": "shards-info",
@@ -9723,6 +9723,27 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T23:52:07.570Z"
+            },
+            {
+              "node_type": "item",
+              "title": "krikri",
+              "description": "Fast Ansible-compatible automation engine",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Fast Ansible-compatible automation in Crystal - no Python required",
+                "homepage": null,
+                "id": 1146908973,
+                "language": "Crystal",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-20T16:32:25Z",
+                "open_issues": 2,
+                "owner": "weirdbricks",
+                "repo": "krikri",
+                "stars": 9,
+                "topics": []
+              },
+              "first_seen": "2026-10-20T18:54:21.592Z"
             }
           ],
           "description": null,
@@ -9780,7 +9801,7 @@
                     "open_issues": 12,
                     "owner": "crystal-lang-tools",
                     "repo": "emacs-crystal-mode",
-                    "stars": 54,
+                    "stars": 55,
                     "topics": [
                       "crystal",
                       "emacs"
@@ -10079,7 +10100,7 @@
                 "open_issues": 20,
                 "owner": "elbywan",
                 "repo": "crystalline",
-                "stars": 528,
+                "stars": 529,
                 "topics": [
                   "crystal",
                   "lsp",
@@ -10208,7 +10229,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T20:21:51.461Z",
+    "last_updated": "2026-10-20T18:54:21.592Z",
     "original_repository_info": {
       "archived": false,
       "description": ":gem: A collection of awesome Crystal libraries, tools, frameworks and software",
@@ -10216,8 +10237,8 @@
       "id": 37688007,
       "language": "Crystal",
       "license": "MIT",
-      "last_commit": "2026-10-08T08:20:16Z",
-      "open_issues": 1,
+      "last_commit": "2026-10-20T13:43:14Z",
+      "open_issues": 0,
       "owner": "veelenga",
       "repo": "awesome-crystal",
       "stars": 3566,
@@ -10229,7 +10250,7 @@
         "shards"
       ]
     },
-    "original_repository_sha": "be27c824134b401aa3d3473f482743b2f0a998bd",
+    "original_repository_sha": "1d8a85a14298650d6fec1d04fe887d60894c0693",
     "enhanced_repository": "enhansome/enhansome-crystal",
     "enhanced_repository_description": null,
     "title": "Awesome Crystal with stars"
