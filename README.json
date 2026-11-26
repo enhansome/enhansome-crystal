@@ -141,7 +141,7 @@
             "id": 535434787,
             "language": "Crystal",
             "license": "MIT",
-            "last_commit": "2026-11-18T08:38:49Z",
+            "last_commit": "2026-11-26T17:12:50Z",
             "open_issues": 1,
             "owner": "soya-daizu",
             "repo": "goban",
@@ -173,7 +173,7 @@
             "open_issues": 0,
             "owner": "Sija",
             "repo": "blurhash.cr",
-            "stars": 27,
+            "stars": 28,
             "topics": [
               "blurhash",
               "crystal",
@@ -1203,27 +1203,6 @@
         },
         {
           "node_type": "item",
-          "title": "wgpu-cr",
-          "description": "Bindings for wgpu-native (WebGPU)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Crystal bindings for wgpu-native (WebGPU)",
-            "homepage": null,
-            "id": 1339500633,
-            "language": "Crystal",
-            "license": "MIT",
-            "last_commit": "2026-11-25T05:38:31Z",
-            "open_issues": 0,
-            "owner": "raj",
-            "repo": "wgpu-cr",
-            "stars": 4,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T23:52:07.570Z"
-        },
-        {
-          "node_type": "item",
           "title": "exif.cr",
           "description": "Bindings for the libexif library",
           "children": [],
@@ -1238,7 +1217,7 @@
             "open_issues": 0,
             "owner": "Sija",
             "repo": "exif.cr",
-            "stars": 3,
+            "stars": 4,
             "topics": [
               "crystal",
               "exif",
@@ -1246,6 +1225,27 @@
             ]
           },
           "first_seen": "2026-11-24T01:59:37.268Z"
+        },
+        {
+          "node_type": "item",
+          "title": "wgpu-cr",
+          "description": "Bindings for wgpu-native (WebGPU)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Crystal bindings for wgpu-native (WebGPU)",
+            "homepage": null,
+            "id": 1339500633,
+            "language": "Crystal",
+            "license": "MIT",
+            "last_commit": "2026-11-26T13:59:53Z",
+            "open_issues": 0,
+            "owner": "raj",
+            "repo": "wgpu-cr",
+            "stars": 4,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T23:52:07.570Z"
         },
         {
           "node_type": "item",
@@ -1311,7 +1311,7 @@
             "open_issues": 0,
             "owner": "crystal-cache",
             "repo": "cache",
-            "stars": 54,
+            "stars": 55,
             "topics": [
               "cache",
               "crystal",
@@ -1515,7 +1515,7 @@
             "open_issues": 0,
             "owner": "j8r",
             "repo": "clicr",
-            "stars": 32,
+            "stars": 31,
             "topics": [
               "cli",
               "crystal"
@@ -1592,7 +1592,7 @@
             "id": 393666948,
             "language": "Crystal",
             "license": "MIT",
-            "last_commit": "2026-11-25T13:00:26Z",
+            "last_commit": "2026-11-26T12:41:18Z",
             "open_issues": 1,
             "owner": "vitobotta",
             "repo": "hetzner-k3s",
@@ -1884,7 +1884,7 @@
             "id": 108447748,
             "language": "Crystal",
             "license": "MIT",
-            "last_commit": "2026-11-25T21:35:21Z",
+            "last_commit": "2026-11-26T20:32:38Z",
             "open_issues": 38,
             "owner": "crystal-ameba",
             "repo": "ameba",
@@ -2590,7 +2590,7 @@
             "open_issues": 1,
             "owner": "delef",
             "repo": "maxminddb.cr",
-            "stars": 27,
+            "stars": 28,
             "topics": [
               "crystal",
               "geoip2",
@@ -4518,7 +4518,7 @@
             "open_issues": 0,
             "owner": "mamantoha",
             "repo": "crest",
-            "stars": 248,
+            "stars": 249,
             "topics": [
               "crystal",
               "curl",
@@ -5388,8 +5388,8 @@
             "id": 113332848,
             "language": "Crystal",
             "license": "MIT",
-            "last_commit": "2026-11-22T13:09:18Z",
-            "open_issues": 0,
+            "last_commit": "2026-11-26T10:29:19Z",
+            "open_issues": 1,
             "owner": "BrightSec",
             "repo": "shainet",
             "stars": 198,
@@ -5761,7 +5761,7 @@
             "open_issues": 3,
             "owner": "Sija",
             "repo": "retriable.cr",
-            "stars": 46,
+            "stars": 47,
             "topics": [
               "crystal",
               "exception-handling"
@@ -6470,7 +6470,7 @@
             "id": 175376136,
             "language": "Crystal",
             "license": "MIT",
-            "last_commit": "2026-07-14T07:29:14Z",
+            "last_commit": "2026-11-26T02:58:22Z",
             "open_issues": 0,
             "owner": "spider-gazelle",
             "repo": "crystal-snmp",
@@ -6533,7 +6533,7 @@
             "id": 711746971,
             "language": "Crystal",
             "license": "MIT",
-            "last_commit": "2026-11-25T19:39:57Z",
+            "last_commit": "2026-11-26T23:01:00Z",
             "open_issues": 2,
             "owner": "Crystal-Matter",
             "repo": "matter",
@@ -7064,7 +7064,7 @@
             "open_issues": 0,
             "owner": "spider-gazelle",
             "repo": "promise",
-            "stars": 45,
+            "stars": 46,
             "topics": []
           },
           "first_seen": "2026-08-28T23:52:07.570Z"
@@ -7633,11 +7633,11 @@
             "id": 466473918,
             "language": "Crystal",
             "license": "MIT",
-            "last_commit": "2026-11-25T11:38:52Z",
-            "open_issues": 40,
+            "last_commit": "2026-11-26T15:36:26Z",
+            "open_issues": 15,
             "owner": "owasp-noir",
             "repo": "noir",
-            "stars": 1509,
+            "stars": 1510,
             "topics": [
               "api-security",
               "attack-surfaces",
@@ -8118,7 +8118,7 @@
             "open_issues": 3,
             "owner": "spoved",
             "repo": "vcr.cr",
-            "stars": 59,
+            "stars": 60,
             "topics": []
           },
           "first_seen": "2026-08-28T23:52:07.570Z"
@@ -8267,7 +8267,7 @@
             "open_issues": 3,
             "owner": "crystal-community",
             "repo": "timecop.cr",
-            "stars": 20,
+            "stars": 21,
             "topics": [
               "crystal",
               "testing",
@@ -9066,7 +9066,7 @@
             "open_issues": 4,
             "owner": "kemalcr",
             "repo": "kemal",
-            "stars": 3934,
+            "stars": 3933,
             "topics": [
               "api",
               "crystal",
@@ -9121,7 +9121,7 @@
             "id": 88535378,
             "language": "Crystal",
             "license": "MIT",
-            "last_commit": "2026-11-25T19:54:41Z",
+            "last_commit": "2026-11-26T02:00:27Z",
             "open_issues": 42,
             "owner": "amberframework",
             "repo": "amber",
@@ -9187,11 +9187,11 @@
             "id": 229540500,
             "language": "Crystal",
             "license": "MIT",
-            "last_commit": "2026-11-12T01:49:57Z",
+            "last_commit": "2026-11-26T12:35:53Z",
             "open_issues": 0,
             "owner": "grip-framework",
             "repo": "grip",
-            "stars": 293,
+            "stars": 294,
             "topics": [
               "crystal",
               "grip",
@@ -9244,7 +9244,7 @@
             "language": "Crystal",
             "license": "WTFPL",
             "last_commit": "2026-10-15T05:27:35Z",
-            "open_issues": 1,
+            "open_issues": 0,
             "owner": "spider-gazelle",
             "repo": "spider-gazelle",
             "stars": 191,
@@ -9330,11 +9330,11 @@
             "id": 6887813,
             "language": "Crystal",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-25T22:36:42Z",
-            "open_issues": 2160,
+            "last_commit": "2026-11-26T14:14:28Z",
+            "open_issues": 2156,
             "owner": "crystal-lang",
             "repo": "crystal",
-            "stars": 20521,
+            "stars": 20522,
             "topics": [
               "compiler",
               "crystal",
@@ -9393,7 +9393,7 @@
             "open_issues": 478,
             "owner": "iv-org",
             "repo": "invidious",
-            "stars": 26158,
+            "stars": 26166,
             "topics": [
               "agplv3",
               "hacktoberfest",
@@ -9740,8 +9740,8 @@
                 "id": 1146908973,
                 "language": "Crystal",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-25T23:07:00Z",
-                "open_issues": 6,
+                "last_commit": "2026-11-26T21:10:23Z",
+                "open_issues": 62,
                 "owner": "weirdbricks",
                 "repo": "krikri",
                 "stars": 12,
@@ -10171,8 +10171,8 @@
                 "id": 949286831,
                 "language": "Crystal",
                 "license": "MIT",
-                "last_commit": "2026-11-22T01:02:10Z",
-                "open_issues": 6,
+                "last_commit": "2026-11-26T20:38:01Z",
+                "open_issues": 7,
                 "owner": "crystal-ameba",
                 "repo": "ameba-ls",
                 "stars": 50,
@@ -10254,7 +10254,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T23:27:56.981Z",
+    "last_updated": "2026-11-26T23:28:45.919Z",
     "original_repository_info": {
       "archived": false,
       "description": ":gem: A collection of awesome Crystal libraries, tools, frameworks and software",
